@@ -1,7 +1,7 @@
 ---
 title: "Images: Compression"
 original_url: "https://tds.s-anand.net/#/image-compression?id=images-compression"
-downloaded_at: "2025-05-31T21:36:49.216023"
+downloaded_at: "2025-06-11T10:41:03.473625"
 ---
 
 [Images: Compression](#/image-compression?id=images-compression)

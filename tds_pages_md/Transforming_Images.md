@@ -1,7 +1,7 @@
 ---
 title: "Transforming Images"
-original_url: "https://tds.s-anand.net/#/transforming-images?id=image-processing-with-imagemagick"
-downloaded_at: "2025-05-31T21:38:41.161445"
+original_url: "https://tds.s-anand.net/#/transforming-images?id=transforming-images"
+downloaded_at: "2025-06-11T10:44:13.377939"
 ---
 
 [Transforming Images](#/transforming-images?id=transforming-images)

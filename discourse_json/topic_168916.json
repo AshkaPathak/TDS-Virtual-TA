@@ -16,9 +16,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 3,
-        "reads": 132,
-        "readers_count": 131,
-        "score": 40.8,
+        "reads": 146,
+        "readers_count": 145,
+        "score": 44.2,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -36,36 +36,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -106,10 +82,10 @@
         "reply_count": 0,
         "reply_to_post_number": null,
         "quote_count": 0,
-        "incoming_link_count": 0,
-        "reads": 126,
-        "readers_count": 125,
-        "score": 39.6,
+        "incoming_link_count": 1,
+        "reads": 140,
+        "readers_count": 139,
+        "score": 48.0,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -136,37 +112,13 @@
             "clicks": 0
           }
         ],
-        "read": true,
+        "read": false,
         "user_title": "",
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -214,9 +166,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 90,
-        "readers_count": 89,
-        "score": 32.4,
+        "reads": 96,
+        "readers_count": 95,
+        "score": 34.2,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -234,36 +186,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -304,9 +232,9 @@
         "reply_to_post_number": 4,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 82,
-        "readers_count": 81,
-        "score": 36.0,
+        "reads": 87,
+        "readers_count": 86,
+        "score": 37.4,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -324,7 +252,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "reply_to_user": {
@@ -338,30 +266,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -409,9 +313,9 @@
         "reply_to_post_number": 5,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 80,
-        "readers_count": 79,
-        "score": 20.6,
+        "reads": 84,
+        "readers_count": 83,
+        "score": 21.8,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -429,7 +333,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "reply_to_user": {
           "id": 16094,
@@ -441,30 +345,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -505,9 +385,9 @@
         "reply_to_post_number": 6,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 80,
-        "readers_count": 79,
-        "score": 90.6,
+        "reads": 82,
+        "readers_count": 81,
+        "score": 91.4,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -525,7 +405,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "reply_to_user": {
@@ -539,30 +419,6 @@
           {
             "id": 2,
             "count": 4,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -611,9 +467,9 @@
         "reply_to_post_number": 7,
         "quote_count": 1,
         "incoming_link_count": 0,
-        "reads": 76,
-        "readers_count": 75,
-        "score": 44.8,
+        "reads": 78,
+        "readers_count": 77,
+        "score": 45.6,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -638,30 +494,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -708,9 +540,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 76,
-        "readers_count": 75,
-        "score": 29.8,
+        "reads": 78,
+        "readers_count": 77,
+        "score": 30.6,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -735,30 +567,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -805,9 +613,9 @@
         "reply_to_post_number": 7,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 70,
-        "readers_count": 69,
-        "score": 53.6,
+        "reads": 72,
+        "readers_count": 71,
+        "score": 54.4,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -838,30 +646,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -913,9 +697,9 @@
         "reply_to_post_number": 10,
         "quote_count": 0,
         "incoming_link_count": 3,
-        "reads": 72,
-        "readers_count": 71,
-        "score": 94.0,
+        "reads": 75,
+        "readers_count": 74,
+        "score": 95.0,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -947,30 +731,6 @@
           {
             "id": 2,
             "count": 4,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1024,9 +784,9 @@
         "reply_to_post_number": 11,
         "quote_count": 0,
         "incoming_link_count": 12,
-        "reads": 70,
-        "readers_count": 69,
-        "score": 173.6,
+        "reads": 73,
+        "readers_count": 72,
+        "score": 174.6,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1057,30 +817,6 @@
           {
             "id": 2,
             "count": 6,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1132,9 +868,9 @@
         "reply_to_post_number": 12,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 54,
-        "readers_count": 53,
-        "score": 10.4,
+        "reads": 56,
+        "readers_count": 55,
+        "score": 11.2,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1164,30 +900,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1228,9 +940,9 @@
         "reply_to_post_number": 7,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 50,
-        "readers_count": 49,
-        "score": 14.6,
+        "reads": 53,
+        "readers_count": 52,
+        "score": 15.6,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1260,30 +972,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1324,9 +1012,9 @@
         "reply_to_post_number": 14,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 54,
-        "readers_count": 53,
-        "score": 30.4,
+        "reads": 56,
+        "readers_count": 55,
+        "score": 31.2,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1357,30 +1045,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1422,9 +1086,9 @@
         "reply_to_post_number": 15,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 57,
-        "readers_count": 56,
-        "score": 21.0,
+        "reads": 59,
+        "readers_count": 58,
+        "score": 21.8,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1454,30 +1118,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1518,9 +1158,9 @@
         "reply_to_post_number": 15,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 45,
-        "readers_count": 44,
-        "score": 28.6,
+        "reads": 46,
+        "readers_count": 45,
+        "score": 29.2,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1551,30 +1191,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1621,9 +1237,9 @@
         "reply_to_post_number": 17,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 39,
-        "readers_count": 38,
-        "score": 12.4,
+        "reads": 40,
+        "readers_count": 39,
+        "score": 13.0,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1654,30 +1270,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1719,9 +1311,9 @@
         "reply_to_post_number": 16,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 40,
-        "readers_count": 39,
-        "score": 7.6,
+        "reads": 41,
+        "readers_count": 40,
+        "score": 8.2,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1752,30 +1344,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1817,9 +1385,9 @@
         "reply_to_post_number": 12,
         "quote_count": 1,
         "incoming_link_count": 0,
-        "reads": 41,
-        "readers_count": 40,
-        "score": 132.6,
+        "reads": 43,
+        "readers_count": 42,
+        "score": 133.6,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1845,30 +1413,6 @@
           {
             "id": 2,
             "count": 8,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1921,9 +1465,9 @@
         "reply_to_post_number": 20,
         "quote_count": 1,
         "incoming_link_count": 0,
-        "reads": 42,
-        "readers_count": 41,
-        "score": 27.6,
+        "reads": 47,
+        "readers_count": 46,
+        "score": 29.4,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -1948,30 +1492,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2018,9 +1538,9 @@
         "reply_to_post_number": 21,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 40,
-        "readers_count": 39,
-        "score": 67.2,
+        "reads": 45,
+        "readers_count": 44,
+        "score": 69.0,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -2051,30 +1571,6 @@
           {
             "id": 2,
             "count": 4,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2121,9 +1617,9 @@
         "reply_to_post_number": 15,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 27,
-        "readers_count": 26,
-        "score": 4.6,
+        "reads": 33,
+        "readers_count": 32,
+        "score": 6.6,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -2153,30 +1649,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2217,9 +1689,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 24,
-        "readers_count": 23,
-        "score": 4.0,
+        "reads": 30,
+        "readers_count": 29,
+        "score": 6.0,
         "yours": false,
         "topic_id": 168916,
         "topic_slug": "project-1-tds-score-not-showing-i",
@@ -2243,30 +1715,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2322,31 +1770,35 @@
   "timeline_lookup": [
     [
       1,
-      90
+      101
     ],
     [
       3,
-      65
+      76
     ],
     [
       5,
-      64
+      75
     ],
     [
       12,
-      63
+      74
+    ],
+    [
+      15,
+      73
     ],
     [
       16,
-      61
+      72
     ],
     [
       17,
-      57
+      68
     ],
     [
       22,
-      56
+      67
     ]
   ],
   "tags": [
@@ -2359,7 +1811,7 @@
   "fancy_title": "Project 1 tds score not showing i",
   "posts_count": 23,
   "created_at": "2025-03-02T04:22:49.157Z",
-  "views": 329,
+  "views": 345,
   "reply_count": 18,
   "like_count": 35,
   "last_posted_at": "2025-04-05T10:57:46.321Z",
@@ -2382,44 +1834,41 @@
   "draft": null,
   "draft_key": "topic_168916",
   "draft_sequence": 0,
-  "posted": false,
   "unpinned": null,
   "pinned": false,
   "current_post_number": 1,
   "highest_post_number": 24,
-  "last_read_post_number": 7,
-  "last_read_post_id": 612148,
   "deleted_by": null,
   "actions_summary": [
     {
       "id": 4,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 8,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 10,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 7,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     }
   ],
   "chunk_size": 20,
   "bookmarked": false,
   "topic_timer": null,
-  "message_bus_last_id": 1,
+  "message_bus_last_id": 0,
   "participant_count": 12,
   "show_read_indicator": false,
   "thumbnails": null,
@@ -2445,10 +1894,7 @@
   "details": {
     "can_edit": false,
     "notification_level": 1,
-    "notifications_reason_id": null,
     "can_create_post": true,
-    "can_reply_as_new_topic": true,
-    "can_flag_topic": true,
     "participants": [
       {
         "id": 16094,

@@ -1,7 +1,7 @@
 ---
 title: "Serverless hosting: Vercel"
-original_url: "https://tds.s-anand.net/#/vercel?id=serverless-hosting-vercel"
-downloaded_at: "2025-05-31T21:38:44.422893"
+original_url: "https://tds.s-anand.net/#/vercel?id=videos"
+downloaded_at: "2025-06-11T10:46:03.981325"
 ---
 
 [Serverless hosting: Vercel](#/vercel?id=serverless-hosting-vercel)

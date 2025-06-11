@@ -16,9 +16,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 126,
-        "readers_count": 125,
-        "score": 34.4,
+        "reads": 140,
+        "readers_count": 139,
+        "score": 37.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -59,30 +59,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -125,9 +101,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 124,
-        "readers_count": 123,
-        "score": 24.0,
+        "reads": 135,
+        "readers_count": 134,
+        "score": 26.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -152,30 +128,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -218,9 +170,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 106,
-        "readers_count": 105,
-        "score": 70.4,
+        "reads": 113,
+        "readers_count": 112,
+        "score": 72.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -245,30 +197,6 @@
           {
             "id": 2,
             "count": 3,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -320,9 +248,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 135,
-        "readers_count": 134,
-        "score": 51.2,
+        "reads": 139,
+        "readers_count": 138,
+        "score": 52.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -347,30 +275,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -417,9 +321,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 115,
-        "readers_count": 114,
-        "score": 22.6,
+        "reads": 117,
+        "readers_count": 116,
+        "score": 23.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -444,30 +348,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -509,9 +389,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 99,
-        "readers_count": 98,
-        "score": 39.4,
+        "reads": 100,
+        "readers_count": 99,
+        "score": 39.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -536,30 +416,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -608,7 +464,7 @@
         "incoming_link_count": 1,
         "reads": 109,
         "readers_count": 108,
-        "score": 46.4,
+        "score": 46.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -633,30 +489,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -704,9 +536,9 @@
         "reply_to_post_number": 7,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 102,
-        "readers_count": 101,
-        "score": 25.0,
+        "reads": 103,
+        "readers_count": 102,
+        "score": 25.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -736,30 +568,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -800,9 +608,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 98,
-        "readers_count": 97,
-        "score": 19.2,
+        "reads": 99,
+        "readers_count": 98,
+        "score": 19.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -826,30 +634,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -890,9 +674,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 97,
-        "readers_count": 96,
-        "score": 24.0,
+        "reads": 98,
+        "readers_count": 97,
+        "score": 24.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -916,30 +700,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -980,9 +740,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 95,
-        "readers_count": 94,
-        "score": 18.6,
+        "reads": 96,
+        "readers_count": 95,
+        "score": 19.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1015,30 +775,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1079,9 +815,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 91,
-        "readers_count": 90,
-        "score": 17.8,
+        "reads": 92,
+        "readers_count": 91,
+        "score": 18.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1105,30 +841,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1169,9 +881,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 90,
-        "readers_count": 89,
-        "score": 42.6,
+        "reads": 91,
+        "readers_count": 90,
+        "score": 43.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1196,30 +908,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1268,7 +956,7 @@
         "incoming_link_count": 1,
         "reads": 91,
         "readers_count": 90,
-        "score": 27.8,
+        "score": 28.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1298,30 +986,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1362,9 +1026,9 @@
         "reply_to_post_number": 14,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 91,
-        "readers_count": 90,
-        "score": 27.8,
+        "reads": 92,
+        "readers_count": 91,
+        "score": 28.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1394,30 +1058,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1458,9 +1098,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 91,
-        "readers_count": 90,
-        "score": 22.8,
+        "reads": 92,
+        "readers_count": 91,
+        "score": 23.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1484,30 +1124,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1548,9 +1164,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 87,
-        "readers_count": 86,
-        "score": 42.0,
+        "reads": 88,
+        "readers_count": 87,
+        "score": 42.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1576,30 +1192,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1647,9 +1239,9 @@
         "reply_to_post_number": 3,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 81,
-        "readers_count": 80,
-        "score": 30.8,
+        "reads": 82,
+        "readers_count": 81,
+        "score": 31.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1679,30 +1271,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1743,9 +1311,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 4,
-        "reads": 76,
-        "readers_count": 75,
-        "score": 34.6,
+        "reads": 77,
+        "readers_count": 76,
+        "score": 35.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1769,30 +1337,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1834,9 +1378,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 79,
-        "readers_count": 78,
-        "score": 15.0,
+        "reads": 84,
+        "readers_count": 83,
+        "score": 16.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1860,30 +1404,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1924,9 +1444,9 @@
         "reply_to_post_number": 15,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 73,
-        "readers_count": 72,
-        "score": 18.8,
+        "reads": 77,
+        "readers_count": 76,
+        "score": 20.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -1956,30 +1476,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2020,9 +1516,9 @@
         "reply_to_post_number": 21,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 70,
-        "readers_count": 69,
-        "score": 58.6,
+        "reads": 71,
+        "readers_count": 70,
+        "score": 59.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2053,30 +1549,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2123,9 +1595,9 @@
         "reply_to_post_number": 22,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 71,
-        "readers_count": 70,
-        "score": 78.8,
+        "reads": 72,
+        "readers_count": 71,
+        "score": 79.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2172,30 +1644,6 @@
             "id": 2,
             "count": 3,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -2241,9 +1689,9 @@
         "reply_to_post_number": 23,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 68,
-        "readers_count": 67,
-        "score": 28.2,
+        "reads": 69,
+        "readers_count": 68,
+        "score": 28.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2274,30 +1722,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2346,7 +1770,7 @@
         "incoming_link_count": 0,
         "reads": 68,
         "readers_count": 67,
-        "score": 28.2,
+        "score": 28.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2377,30 +1801,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2449,7 +1849,7 @@
         "incoming_link_count": 0,
         "reads": 62,
         "readers_count": 61,
-        "score": 27.0,
+        "score": 27.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2474,30 +1874,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2546,7 +1922,7 @@
         "incoming_link_count": 0,
         "reads": 54,
         "readers_count": 53,
-        "score": 15.4,
+        "score": 15.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2576,30 +1952,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2642,7 +1994,7 @@
         "incoming_link_count": 0,
         "reads": 51,
         "readers_count": 50,
-        "score": 19.8,
+        "score": 20.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2666,30 +2018,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2730,9 +2058,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 53,
-        "readers_count": 52,
-        "score": 15.2,
+        "reads": 54,
+        "readers_count": 53,
+        "score": 15.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2756,30 +2084,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2820,9 +2124,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 51,
-        "readers_count": 50,
-        "score": 9.8,
+        "reads": 52,
+        "readers_count": 51,
+        "score": 10.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2846,30 +2150,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2910,9 +2190,9 @@
         "reply_to_post_number": 29,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 48,
-        "readers_count": 47,
-        "score": 14.2,
+        "reads": 49,
+        "readers_count": 48,
+        "score": 14.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -2942,30 +2222,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3006,9 +2262,9 @@
         "reply_to_post_number": 18,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 50,
-        "readers_count": 49,
-        "score": 9.6,
+        "reads": 51,
+        "readers_count": 50,
+        "score": 10.0,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3038,30 +2294,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3102,9 +2334,9 @@
         "reply_to_post_number": 29,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 50,
-        "readers_count": 49,
-        "score": 9.6,
+        "reads": 51,
+        "readers_count": 50,
+        "score": 10.0,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3134,30 +2366,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3200,7 +2408,7 @@
         "incoming_link_count": 0,
         "reads": 47,
         "readers_count": 46,
-        "score": 9.0,
+        "score": 9.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3224,30 +2432,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3290,7 +2474,7 @@
         "incoming_link_count": 2,
         "reads": 36,
         "readers_count": 35,
-        "score": 22.0,
+        "score": 22.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3314,30 +2498,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3380,7 +2540,7 @@
         "incoming_link_count": 1,
         "reads": 33,
         "readers_count": 32,
-        "score": 16.4,
+        "score": 16.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3411,30 +2571,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3478,7 +2614,7 @@
         "incoming_link_count": 0,
         "reads": 31,
         "readers_count": 30,
-        "score": 6.0,
+        "score": 6.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3502,30 +2638,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3568,7 +2680,7 @@
         "incoming_link_count": 0,
         "reads": 32,
         "readers_count": 31,
-        "score": 6.2,
+        "score": 6.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3598,30 +2710,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3662,9 +2750,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 32,
-        "readers_count": 31,
-        "score": 5.8,
+        "reads": 36,
+        "readers_count": 35,
+        "score": 7.0,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3688,30 +2776,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3752,9 +2816,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 30,
-        "readers_count": 29,
-        "score": 10.4,
+        "reads": 34,
+        "readers_count": 33,
+        "score": 11.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3778,30 +2842,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3842,9 +2882,9 @@
         "reply_to_post_number": 41,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 29,
-        "readers_count": 28,
-        "score": 5.2,
+        "reads": 32,
+        "readers_count": 31,
+        "score": 6.4,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3875,30 +2915,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3940,9 +2956,9 @@
         "reply_to_post_number": 37,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 17,
-        "readers_count": 16,
-        "score": 8.0,
+        "reads": 18,
+        "readers_count": 17,
+        "score": 8.6,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -3972,30 +2988,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4036,9 +3028,9 @@
         "reply_to_post_number": 44,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 16,
-        "readers_count": 15,
-        "score": 7.4,
+        "reads": 22,
+        "readers_count": 21,
+        "score": 9.2,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -4069,30 +3061,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4134,9 +3102,9 @@
         "reply_to_post_number": 45,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 14,
-        "readers_count": 13,
-        "score": 2.0,
+        "reads": 20,
+        "readers_count": 19,
+        "score": 3.8,
         "yours": false,
         "topic_id": 169283,
         "topic_slug": "graded-assignment-6",
@@ -4166,30 +3134,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4266,75 +3210,79 @@
   "timeline_lookup": [
     [
       1,
-      86
+      97
     ],
     [
       3,
-      90
+      101
     ],
     [
       5,
-      88
+      99
     ],
     [
       6,
-      89
+      100
     ],
     [
       7,
-      85
+      96
     ],
     [
       8,
-      84
+      95
     ],
     [
       9,
-      82
+      93
     ],
     [
       10,
-      81
+      92
     ],
     [
-      13,
-      80
+      12,
+      91
     ],
     [
       17,
-      79
+      90
     ],
     [
       18,
-      78
+      89
     ],
     [
       20,
-      77
+      88
     ],
     [
-      30,
-      76
+      29,
+      87
+    ],
+    [
+      36,
+      86
     ],
     [
       37,
-      74
+      85
     ],
     [
       39,
-      73
+      84
     ],
     [
       40,
-      72
+      83
     ],
     [
       41,
-      70
+      81
     ],
     [
       42,
-      50
+      61
     ]
   ],
   "tags": [
@@ -4347,7 +3295,7 @@
   "fancy_title": "Graded assignment 6",
   "posts_count": 44,
   "created_at": "2025-03-06T13:48:38.931Z",
-  "views": 421,
+  "views": 437,
   "reply_count": 21,
   "like_count": 16,
   "last_posted_at": "2025-04-11T16:31:37.494Z",
@@ -4380,31 +3328,31 @@
       "id": 4,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 8,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 10,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 7,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     }
   ],
   "chunk_size": 20,
   "bookmarked": false,
   "topic_timer": null,
-  "message_bus_last_id": 0,
+  "message_bus_last_id": 1,
   "participant_count": 23,
   "show_read_indicator": false,
   "thumbnails": null,
@@ -4431,8 +3379,6 @@
     "can_edit": false,
     "notification_level": 1,
     "can_create_post": true,
-    "can_reply_as_new_topic": true,
-    "can_flag_topic": true,
     "participants": [
       {
         "id": 7193,

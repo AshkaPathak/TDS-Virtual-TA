@@ -1,7 +1,7 @@
 ---
 title: "LLM Speech"
-original_url: "https://tds.s-anand.net/#/llm-speech?id=openai-tts-1-for-text-to-speech-generation"
-downloaded_at: "2025-05-31T21:39:44.271954"
+original_url: "https://tds.s-anand.net/#/llm-speech?id=costs-and-optimization-1"
+downloaded_at: "2025-06-11T10:46:16.499750"
 ---
 
 [OpenAI TTS-1 for Text-to-Speech Generation](#/llm-speech?id=openai-tts-1-for-text-to-speech-generation)

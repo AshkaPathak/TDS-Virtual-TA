@@ -16,9 +16,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 46,
-        "readers_count": 45,
-        "score": 18.8,
+        "reads": 55,
+        "readers_count": 54,
+        "score": 20.8,
         "yours": false,
         "topic_id": 168987,
         "topic_slug": "unable-to-attend-the-roe",
@@ -36,36 +36,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -107,9 +83,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 19,
-        "readers_count": 18,
-        "score": 3.4,
+        "reads": 25,
+        "readers_count": 24,
+        "score": 4.8,
         "yours": false,
         "topic_id": 168987,
         "topic_slug": "unable-to-attend-the-roe",
@@ -127,37 +103,13 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Course TA",
         "title_is_group": false,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -195,140 +147,27 @@
   "timeline_lookup": [
     [
       1,
-      90
+      101
     ],
     [
       2,
-      89
+      100
     ]
   ],
   "suggested_topics": [
     {
-      "id": 173524,
-      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
-      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
-      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
-      "posts_count": 80,
-      "reply_count": 51,
-      "highest_post_number": 85,
-      "image_url": null,
-      "created_at": "2025-05-01T11:39:00.734Z",
-      "last_posted_at": "2025-05-31T15:34:18.368Z",
-      "bumped": true,
-      "bumped_at": "2025-05-31T15:34:18.368Z",
-      "archetype": "regular",
-      "unseen": false,
-      "last_read_post_number": 82,
-      "unread": 0,
-      "new_posts": 3,
-      "unread_posts": 3,
-      "pinned": false,
-      "unpinned": null,
-      "visible": true,
-      "closed": false,
-      "archived": false,
-      "notification_level": 2,
-      "bookmarked": false,
-      "liked": false,
-      "tags": [
-        "term2-2025",
-        "graded-assignment"
-      ],
-      "tags_descriptions": {},
-      "like_count": 25,
-      "views": 1155,
-      "category_id": 34,
-      "featured_link": null,
-      "has_accepted_answer": false,
-      "posters": [
-        {
-          "extras": null,
-          "description": "Original Poster",
-          "user": {
-            "id": 9419,
-            "username": "s.anand",
-            "name": "Anand S",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
-            "primary_group_name": "faculty",
-            "flair_name": "faculty",
-            "flair_url": "chalkboard-user",
-            "flair_bg_color": "f2c26e",
-            "flair_color": "000",
-            "flair_group_id": 54,
-            "trust_level": 4
-          }
-        },
-        {
-          "extras": null,
-          "description": "Frequent Poster",
-          "user": {
-            "id": 22472,
-            "username": "Advaith52",
-            "name": "Advaith Sanil Kumar",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
-            "primary_group_name": "ds-students",
-            "flair_name": "ds-students",
-            "flair_group_id": 294,
-            "trust_level": 1
-          }
-        },
-        {
-          "extras": null,
-          "description": "Frequent Poster",
-          "user": {
-            "id": 16094,
-            "username": "carlton",
-            "name": "Carlton D'Silva",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
-            "primary_group_name": "ds-students",
-            "flair_name": "ds-students",
-            "flair_group_id": 294,
-            "trust_level": 3
-          }
-        },
-        {
-          "extras": null,
-          "description": "Frequent Poster",
-          "user": {
-            "id": 15658,
-            "username": "HritikRoshan_HRM",
-            "name": "HRITIK ROSHAN MAURYA",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
-            "primary_group_name": "ds-students",
-            "flair_name": "ds-students",
-            "flair_group_id": 294,
-            "trust_level": 1
-          }
-        },
-        {
-          "extras": "latest",
-          "description": "Most Recent Poster",
-          "user": {
-            "id": 12914,
-            "username": "iAnimeshS",
-            "name": "Animesh",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
-            "primary_group_name": "ds-students",
-            "flair_name": "ds-students",
-            "flair_group_id": 294,
-            "trust_level": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": 176789,
-      "title": "Vercel deployement error",
-      "fancy_title": "Vercel deployement error",
-      "slug": "vercel-deployement-error",
+      "id": 178618,
+      "title": "Submissions of Weekly Graded Assignment of TDS",
+      "fancy_title": "Submissions of Weekly Graded Assignment of TDS",
+      "slug": "submissions-of-weekly-graded-assignment-of-tds",
       "posts_count": 1,
       "reply_count": 0,
       "highest_post_number": 1,
-      "image_url": null,
-      "created_at": "2025-05-31T11:55:22.507Z",
-      "last_posted_at": "2025-05-31T11:55:22.708Z",
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/b/ebebd516796a3f6ff08278e4eb8ee662f7b7158e.jpeg",
+      "created_at": "2025-06-10T06:34:51.065Z",
+      "last_posted_at": "2025-06-10T06:34:51.383Z",
       "bumped": true,
-      "bumped_at": "2025-05-31T11:55:22.708Z",
+      "bumped_at": "2025-06-10T06:34:51.383Z",
       "archetype": "regular",
       "unseen": true,
       "pinned": false,
@@ -339,12 +178,13 @@
       "bookmarked": null,
       "liked": null,
       "tags": [
-        "diploma-level",
+        "clarification",
+        "course-portal",
         "term2-2025"
       ],
       "tags_descriptions": {},
       "like_count": 0,
-      "views": 9,
+      "views": 25,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -353,14 +193,14 @@
           "extras": "latest single",
           "description": "Original Poster, Most Recent Poster",
           "user": {
-            "id": 25506,
-            "username": "23f3003724",
-            "name": "Vedika Gupta",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3003724/{size}/68806_2.png",
+            "id": 45768,
+            "username": "24f1002463",
+            "name": "Mythili",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1002463/{size}/119814_2.png",
             "primary_group_name": "ds-students",
             "flair_name": "ds-students",
             "flair_group_id": 294,
-            "trust_level": 1
+            "trust_level": 0
           }
         }
       ]
@@ -376,7 +216,7 @@
   "fancy_title": "Unable to attend the ROE",
   "posts_count": 2,
   "created_at": "2025-03-02T13:51:41.403Z",
-  "views": 60,
+  "views": 71,
   "reply_count": 0,
   "like_count": 0,
   "last_posted_at": "2025-03-03T11:27:52.737Z",
@@ -399,38 +239,35 @@
   "draft": null,
   "draft_key": "topic_168987",
   "draft_sequence": 0,
-  "posted": false,
   "unpinned": null,
   "pinned": false,
   "current_post_number": 1,
   "highest_post_number": 2,
-  "last_read_post_number": 2,
-  "last_read_post_id": 603015,
   "deleted_by": null,
   "actions_summary": [
     {
       "id": 4,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 8,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 10,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 7,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     }
   ],
   "chunk_size": 20,
@@ -471,7 +308,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 3,
-      "views": 62,
+      "views": 64,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -520,7 +357,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 1,
-      "views": 64,
+      "views": 65,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -569,7 +406,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 6,
-      "views": 98,
+      "views": 100,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -632,7 +469,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 1,
-      "views": 61,
+      "views": 66,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": true,
@@ -696,7 +533,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 2,
-      "views": 71,
+      "views": 76,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -743,10 +580,7 @@
   "details": {
     "can_edit": false,
     "notification_level": 1,
-    "notifications_reason_id": null,
     "can_create_post": true,
-    "can_reply_as_new_topic": true,
-    "can_flag_topic": true,
     "participants": [
       {
         "id": 20455,

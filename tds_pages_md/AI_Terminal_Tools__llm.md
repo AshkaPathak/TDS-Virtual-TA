@@ -1,7 +1,7 @@
 ---
 title: "AI Terminal Tools: llm"
-original_url: "https://tds.s-anand.net/#/llm?id=key-features"
-downloaded_at: "2025-05-31T21:38:13.947863"
+original_url: "https://tds.s-anand.net/#/llm?id=basic-usage"
+downloaded_at: "2025-06-11T10:45:21.248190"
 ---
 
 [LLM CLI: llm](#/llm?id=llm-cli-llm)

@@ -1,7 +1,7 @@
 ---
 title: "Embeddings"
 original_url: "https://tds.s-anand.net/#/embeddings?id=embeddings-openai-and-local-models"
-downloaded_at: "2025-05-31T21:39:33.739830"
+downloaded_at: "2025-06-11T10:45:16.035380"
 ---
 
 [Embeddings: OpenAI and Local Models](#/embeddings?id=embeddings-openai-and-local-models)

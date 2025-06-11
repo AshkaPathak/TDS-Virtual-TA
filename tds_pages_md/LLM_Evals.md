@@ -1,7 +1,7 @@
 ---
 title: "LLM Evals"
 original_url: "https://tds.s-anand.net/#/llm-evals?id=llm-evaluations-with-promptfoo"
-downloaded_at: "2025-05-31T21:36:07.824602"
+downloaded_at: "2025-06-11T10:44:05.779458"
 ---
 
 [LLM Evaluations with PromptFoo](#/llm-evals?id=llm-evaluations-with-promptfoo)

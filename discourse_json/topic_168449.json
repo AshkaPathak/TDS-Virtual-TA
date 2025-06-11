@@ -15,10 +15,10 @@
         "reply_count": 0,
         "reply_to_post_number": null,
         "quote_count": 0,
-        "incoming_link_count": 29,
-        "reads": 231,
-        "readers_count": 230,
-        "score": 250.2,
+        "incoming_link_count": 30,
+        "reads": 243,
+        "readers_count": 242,
+        "score": 258.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -85,7 +85,7 @@
             "clicks": 3
           }
         ],
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "bookmarked": false,
@@ -93,30 +93,6 @@
           {
             "id": 2,
             "count": 4,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -165,9 +141,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 193,
-        "readers_count": 192,
-        "score": 38.2,
+        "reads": 196,
+        "readers_count": 195,
+        "score": 39.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -192,30 +168,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -258,9 +210,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 194,
-        "readers_count": 193,
-        "score": 48.4,
+        "reads": 197,
+        "readers_count": 196,
+        "score": 49.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -284,30 +236,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -348,9 +276,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 190,
-        "readers_count": 189,
-        "score": 47.6,
+        "reads": 193,
+        "readers_count": 192,
+        "score": 48.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -374,30 +302,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -438,9 +342,9 @@
         "reply_to_post_number": 3,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 186,
-        "readers_count": 185,
-        "score": 41.8,
+        "reads": 189,
+        "readers_count": 188,
+        "score": 42.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -471,30 +375,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -536,9 +416,9 @@
         "reply_to_post_number": 4,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 184,
-        "readers_count": 183,
-        "score": 56.4,
+        "reads": 187,
+        "readers_count": 186,
+        "score": 57.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -585,30 +465,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -649,9 +505,9 @@
         "reply_to_post_number": 6,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 167,
-        "readers_count": 166,
-        "score": 38.0,
+        "reads": 169,
+        "readers_count": 168,
+        "score": 38.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -681,30 +537,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -745,9 +577,9 @@
         "reply_to_post_number": 7,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 161,
-        "readers_count": 160,
-        "score": 46.8,
+        "reads": 162,
+        "readers_count": 161,
+        "score": 47.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -778,30 +610,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -843,9 +651,9 @@
         "reply_to_post_number": 8,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 158,
-        "readers_count": 157,
-        "score": 36.2,
+        "reads": 159,
+        "readers_count": 158,
+        "score": 36.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -875,30 +683,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -939,9 +723,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 158,
-        "readers_count": 157,
-        "score": 36.2,
+        "reads": 159,
+        "readers_count": 158,
+        "score": 36.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -965,30 +749,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1031,7 +791,7 @@
         "incoming_link_count": 0,
         "reads": 149,
         "readers_count": 148,
-        "score": 29.4,
+        "score": 29.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1061,30 +821,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1128,7 +864,7 @@
         "incoming_link_count": 2,
         "reads": 142,
         "readers_count": 141,
-        "score": 53.0,
+        "score": 53.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1153,30 +889,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1225,7 +937,7 @@
         "incoming_link_count": 1,
         "reads": 143,
         "readers_count": 142,
-        "score": 33.2,
+        "score": 33.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1249,30 +961,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1316,7 +1004,7 @@
         "incoming_link_count": 0,
         "reads": 136,
         "readers_count": 135,
-        "score": 31.8,
+        "score": 32.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1340,30 +1028,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1406,7 +1070,7 @@
         "incoming_link_count": 0,
         "reads": 141,
         "readers_count": 140,
-        "score": 82.8,
+        "score": 83.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1438,30 +1102,6 @@
           {
             "id": 2,
             "count": 3,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1516,7 +1156,7 @@
         "incoming_link_count": 0,
         "reads": 132,
         "readers_count": 131,
-        "score": 26.0,
+        "score": 26.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1541,30 +1181,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1609,7 +1225,7 @@
         "incoming_link_count": 1,
         "reads": 135,
         "readers_count": 134,
-        "score": 31.6,
+        "score": 32.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1639,30 +1255,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1705,7 +1297,7 @@
         "incoming_link_count": 0,
         "reads": 134,
         "readers_count": 133,
-        "score": 31.4,
+        "score": 31.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1738,30 +1330,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1802,9 +1370,9 @@
         "reply_to_post_number": 19,
         "quote_count": 1,
         "incoming_link_count": 0,
-        "reads": 133,
-        "readers_count": 132,
-        "score": 41.0,
+        "reads": 134,
+        "readers_count": 133,
+        "score": 41.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1830,30 +1398,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1901,9 +1445,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 131,
-        "readers_count": 130,
-        "score": 35.4,
+        "reads": 134,
+        "readers_count": 133,
+        "score": 36.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -1927,30 +1471,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1991,9 +1511,9 @@
         "reply_to_post_number": 21,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 124,
-        "readers_count": 123,
-        "score": 24.0,
+        "reads": 127,
+        "readers_count": 126,
+        "score": 25.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2024,30 +1544,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2091,7 +1587,7 @@
         "incoming_link_count": 0,
         "reads": 118,
         "readers_count": 117,
-        "score": 28.2,
+        "score": 28.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2115,30 +1611,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2182,7 +1654,7 @@
         "incoming_link_count": 1,
         "reads": 114,
         "readers_count": 113,
-        "score": 32.4,
+        "score": 32.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2213,30 +1685,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2280,7 +1728,7 @@
         "incoming_link_count": 0,
         "reads": 80,
         "readers_count": 79,
-        "score": 15.6,
+        "score": 16.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2304,30 +1752,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2371,7 +1795,7 @@
         "incoming_link_count": 0,
         "reads": 110,
         "readers_count": 109,
-        "score": 26.6,
+        "score": 27.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2395,30 +1819,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2462,7 +1862,7 @@
         "incoming_link_count": 2,
         "reads": 108,
         "readers_count": 107,
-        "score": 31.2,
+        "score": 31.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2492,30 +1892,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2558,7 +1934,7 @@
         "incoming_link_count": 3,
         "reads": 110,
         "readers_count": 109,
-        "score": 41.6,
+        "score": 42.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2590,30 +1966,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2657,7 +2009,7 @@
         "incoming_link_count": 7,
         "reads": 108,
         "readers_count": 107,
-        "score": 56.2,
+        "score": 56.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2681,30 +2033,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2747,7 +2075,7 @@
         "incoming_link_count": 3,
         "reads": 104,
         "readers_count": 103,
-        "score": 35.4,
+        "score": 35.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2777,30 +2105,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2844,7 +2148,7 @@
         "incoming_link_count": 0,
         "reads": 106,
         "readers_count": 105,
-        "score": 65.8,
+        "score": 66.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2869,30 +2173,6 @@
           {
             "id": 2,
             "count": 3,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2942,7 +2222,7 @@
         "incoming_link_count": 1,
         "reads": 97,
         "readers_count": 96,
-        "score": 74.2,
+        "score": 74.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -2967,30 +2247,6 @@
           {
             "id": 2,
             "count": 3,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3040,7 +2296,7 @@
         "incoming_link_count": 0,
         "reads": 94,
         "readers_count": 93,
-        "score": 33.6,
+        "score": 33.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3081,30 +2337,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3154,7 +2386,7 @@
         "incoming_link_count": 3,
         "reads": 92,
         "readers_count": 91,
-        "score": 53.2,
+        "score": 53.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3186,30 +2418,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3259,7 +2467,7 @@
         "incoming_link_count": 1,
         "reads": 100,
         "readers_count": 99,
-        "score": 44.8,
+        "score": 45.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3293,30 +2501,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3366,7 +2550,7 @@
         "incoming_link_count": 0,
         "reads": 94,
         "readers_count": 93,
-        "score": 38.6,
+        "score": 38.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3398,30 +2582,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3471,7 +2631,7 @@
         "incoming_link_count": 0,
         "reads": 97,
         "readers_count": 96,
-        "score": 19.0,
+        "score": 19.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3495,30 +2655,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3560,9 +2696,9 @@
         "reply_to_post_number": 36,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 100,
-        "readers_count": 99,
-        "score": 29.4,
+        "reads": 103,
+        "readers_count": 102,
+        "score": 30.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3592,30 +2728,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3657,9 +2769,9 @@
         "reply_to_post_number": 38,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 103,
-        "readers_count": 102,
-        "score": 45.0,
+        "reads": 106,
+        "readers_count": 105,
+        "score": 46.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3691,30 +2803,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3762,9 +2850,9 @@
         "reply_to_post_number": 39,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 104,
-        "readers_count": 103,
-        "score": 25.2,
+        "reads": 107,
+        "readers_count": 106,
+        "score": 26.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3794,30 +2882,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3859,9 +2923,9 @@
         "reply_to_post_number": 34,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 98,
-        "readers_count": 97,
-        "score": 49.0,
+        "reads": 101,
+        "readers_count": 100,
+        "score": 50.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3892,30 +2956,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3962,9 +3002,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 94,
-        "readers_count": 93,
-        "score": 18.4,
+        "reads": 97,
+        "readers_count": 96,
+        "score": 19.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -3988,30 +3028,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4088,30 +3104,6 @@
             "id": 2,
             "count": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -4165,7 +3157,7 @@
         "incoming_link_count": 1,
         "reads": 90,
         "readers_count": 89,
-        "score": 27.8,
+        "score": 28.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4195,30 +3187,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4261,7 +3229,7 @@
         "incoming_link_count": 0,
         "reads": 92,
         "readers_count": 91,
-        "score": 53.2,
+        "score": 53.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4293,30 +3261,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4366,7 +3310,7 @@
         "incoming_link_count": 3,
         "reads": 90,
         "readers_count": 89,
-        "score": 37.8,
+        "score": 38.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4390,30 +3334,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4457,7 +3377,7 @@
         "incoming_link_count": 0,
         "reads": 90,
         "readers_count": 89,
-        "score": 32.8,
+        "score": 33.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4488,30 +3408,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4560,7 +3456,7 @@
         "incoming_link_count": 0,
         "reads": 92,
         "readers_count": 91,
-        "score": 33.2,
+        "score": 33.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4591,30 +3487,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4663,7 +3535,7 @@
         "incoming_link_count": 0,
         "reads": 91,
         "readers_count": 90,
-        "score": 23.0,
+        "score": 23.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4693,30 +3565,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4759,7 +3607,7 @@
         "incoming_link_count": 1,
         "reads": 93,
         "readers_count": 92,
-        "score": 23.4,
+        "score": 23.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4783,30 +3631,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4849,7 +3673,7 @@
         "incoming_link_count": 0,
         "reads": 91,
         "readers_count": 90,
-        "score": 18.0,
+        "score": 18.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4880,30 +3704,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4947,7 +3747,7 @@
         "incoming_link_count": 1,
         "reads": 91,
         "readers_count": 90,
-        "score": 28.0,
+        "score": 28.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -4971,30 +3771,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5037,7 +3813,7 @@
         "incoming_link_count": 2,
         "reads": 94,
         "readers_count": 93,
-        "score": 43.6,
+        "score": 43.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5069,30 +3845,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5142,7 +3894,7 @@
         "incoming_link_count": 2,
         "reads": 94,
         "readers_count": 93,
-        "score": 33.6,
+        "score": 33.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5172,30 +3924,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5238,7 +3966,7 @@
         "incoming_link_count": 6,
         "reads": 101,
         "readers_count": 100,
-        "score": 50.0,
+        "score": 50.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5285,30 +4013,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -5350,7 +4054,7 @@
         "incoming_link_count": 0,
         "reads": 100,
         "readers_count": 99,
-        "score": 24.8,
+        "score": 25.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5374,30 +4078,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5440,7 +4120,7 @@
         "incoming_link_count": 0,
         "reads": 105,
         "readers_count": 104,
-        "score": 25.8,
+        "score": 26.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5464,30 +4144,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5528,9 +4184,9 @@
         "reply_to_post_number": 56,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 103,
-        "readers_count": 102,
-        "score": 30.2,
+        "reads": 104,
+        "readers_count": 103,
+        "score": 30.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5561,30 +4217,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5626,9 +4258,9 @@
         "reply_to_post_number": 57,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 111,
-        "readers_count": 110,
-        "score": 21.6,
+        "reads": 114,
+        "readers_count": 113,
+        "score": 22.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5659,30 +4291,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5724,9 +4332,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 110,
-        "readers_count": 109,
-        "score": 31.4,
+        "reads": 113,
+        "readers_count": 112,
+        "score": 32.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5750,30 +4358,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5814,9 +4398,9 @@
         "reply_to_post_number": 61,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 110,
-        "readers_count": 109,
-        "score": 41.4,
+        "reads": 113,
+        "readers_count": 112,
+        "score": 42.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5847,30 +4431,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5912,9 +4472,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 113,
-        "readers_count": 112,
-        "score": 22.0,
+        "reads": 116,
+        "readers_count": 115,
+        "score": 23.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -5938,30 +4498,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6004,7 +4540,7 @@
         "incoming_link_count": 1,
         "reads": 110,
         "readers_count": 109,
-        "score": 31.8,
+        "score": 32.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6034,30 +4570,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6100,7 +4612,7 @@
         "incoming_link_count": 0,
         "reads": 157,
         "readers_count": 156,
-        "score": 31.2,
+        "score": 31.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6131,30 +4643,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6199,7 +4687,7 @@
         "incoming_link_count": 76,
         "reads": 158,
         "readers_count": 157,
-        "score": 761.4,
+        "score": 761.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6233,30 +4721,6 @@
           {
             "id": 2,
             "count": 22,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6305,7 +4769,7 @@
         "incoming_link_count": 0,
         "reads": 153,
         "readers_count": 152,
-        "score": 60.4,
+        "score": 60.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6336,30 +4800,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6408,7 +4848,7 @@
         "incoming_link_count": 0,
         "reads": 145,
         "readers_count": 144,
-        "score": 43.8,
+        "score": 44.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6439,30 +4879,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6512,7 +4928,7 @@
         "incoming_link_count": 0,
         "reads": 136,
         "readers_count": 135,
-        "score": 27.0,
+        "score": 27.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6542,30 +4958,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6609,7 +5001,7 @@
         "incoming_link_count": 3,
         "reads": 129,
         "readers_count": 128,
-        "score": 55.6,
+        "score": 55.8,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6640,30 +5032,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6713,7 +5081,7 @@
         "incoming_link_count": 1,
         "reads": 118,
         "readers_count": 117,
-        "score": 43.4,
+        "score": 43.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6744,30 +5112,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6814,9 +5158,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 107,
-        "readers_count": 106,
-        "score": 26.2,
+        "reads": 108,
+        "readers_count": 107,
+        "score": 26.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6840,30 +5184,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6904,9 +5224,9 @@
         "reply_to_post_number": 72,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 101,
-        "readers_count": 100,
-        "score": 40.0,
+        "reads": 102,
+        "readers_count": 101,
+        "score": 40.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -6938,30 +5258,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7009,9 +5305,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 101,
-        "readers_count": 100,
-        "score": 30.0,
+        "reads": 102,
+        "readers_count": 101,
+        "score": 30.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7035,30 +5331,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7099,9 +5371,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 96,
-        "readers_count": 95,
-        "score": 19.0,
+        "reads": 97,
+        "readers_count": 96,
+        "score": 19.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7126,30 +5398,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7192,9 +5440,9 @@
         "reply_to_post_number": 74,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 96,
-        "readers_count": 95,
-        "score": 34.0,
+        "reads": 97,
+        "readers_count": 96,
+        "score": 34.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7235,30 +5483,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7307,9 +5531,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 95,
-        "readers_count": 94,
-        "score": 23.8,
+        "reads": 96,
+        "readers_count": 95,
+        "score": 24.2,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7333,30 +5557,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7397,9 +5597,9 @@
         "reply_to_post_number": 77,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 96,
-        "readers_count": 95,
-        "score": 19.0,
+        "reads": 97,
+        "readers_count": 96,
+        "score": 19.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7429,30 +5629,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7493,9 +5669,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 3,
-        "reads": 91,
-        "readers_count": 90,
-        "score": 33.0,
+        "reads": 92,
+        "readers_count": 91,
+        "score": 33.4,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7519,30 +5695,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7583,9 +5735,9 @@
         "reply_to_post_number": 66,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 87,
-        "readers_count": 86,
-        "score": 22.2,
+        "reads": 88,
+        "readers_count": 87,
+        "score": 22.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7615,30 +5767,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7679,9 +5807,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 64,
-        "readers_count": 63,
-        "score": 22.4,
+        "reads": 68,
+        "readers_count": 67,
+        "score": 23.6,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7705,30 +5833,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7769,9 +5873,9 @@
         "reply_to_post_number": 81,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 35,
-        "readers_count": 34,
-        "score": 21.4,
+        "reads": 40,
+        "readers_count": 39,
+        "score": 23.0,
         "yours": false,
         "topic_id": 168449,
         "topic_slug": "mock-roe-1-2-3-4-tds-jan-2025",
@@ -7803,30 +5907,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7946,39 +6026,39 @@
   "timeline_lookup": [
     [
       1,
-      95
+      106
     ],
     [
-      15,
-      94
+      14,
+      105
     ],
     [
       24,
-      95
+      106
     ],
     [
       25,
-      94
+      105
     ],
     [
       48,
-      93
+      104
     ],
     [
-      62,
-      92
+      61,
+      103
     ],
     [
       71,
-      91
+      102
     ],
     [
       79,
-      90
+      101
     ],
     [
       80,
-      88
+      99
     ]
   ],
   "tags": [
@@ -7991,7 +6071,7 @@
   "fancy_title": "Mock ROE 1, 2, 3, 4 [TDS Jan 2025]",
   "posts_count": 80,
   "created_at": "2025-02-25T13:32:03.641Z",
-  "views": 672,
+  "views": 689,
   "reply_count": 47,
   "like_count": 58,
   "last_posted_at": "2025-03-04T10:15:32.857Z",
@@ -8014,44 +6094,41 @@
   "draft": null,
   "draft_key": "topic_168449",
   "draft_sequence": 0,
-  "posted": false,
   "unpinned": null,
   "pinned": false,
   "current_post_number": 1,
   "highest_post_number": 82,
-  "last_read_post_number": 1,
-  "last_read_post_id": 599595,
   "deleted_by": null,
   "actions_summary": [
     {
       "id": 4,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 8,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 10,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 7,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     }
   ],
   "chunk_size": 20,
   "bookmarked": false,
   "topic_timer": null,
-  "message_bus_last_id": 0,
+  "message_bus_last_id": 1,
   "participant_count": 28,
   "show_read_indicator": false,
   "thumbnails": null,
@@ -8077,10 +6154,7 @@
   "details": {
     "can_edit": false,
     "notification_level": 1,
-    "notifications_reason_id": null,
     "can_create_post": true,
-    "can_reply_as_new_topic": true,
-    "can_flag_topic": true,
     "participants": [
       {
         "id": 16094,

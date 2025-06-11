@@ -1,7 +1,7 @@
 ---
 title: "Convert HTML to Markdown"
-original_url: "https://tds.s-anand.net/#/convert-html-to-markdown?id=choosing-the-right-tool"
-downloaded_at: "2025-05-31T21:38:02.157216"
+original_url: "https://tds.s-anand.net/#/convert-html-to-markdown?id=converting-html-to-markdown"
+downloaded_at: "2025-06-11T10:45:07.672777"
 ---
 
 [Converting HTML to Markdown](#/convert-html-to-markdown?id=converting-html-to-markdown)

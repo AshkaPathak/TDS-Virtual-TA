@@ -16,9 +16,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 221,
-        "reads": 322,
-        "readers_count": 321,
-        "score": 1183.2,
+        "reads": 334,
+        "readers_count": 333,
+        "score": 1186.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -67,30 +67,6 @@
             "id": 2,
             "count": 1,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -137,9 +113,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 290,
-        "readers_count": 289,
-        "score": 57.0,
+        "reads": 297,
+        "readers_count": 296,
+        "score": 59.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -164,30 +140,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -230,9 +182,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 8,
-        "reads": 248,
-        "readers_count": 247,
-        "score": 93.6,
+        "reads": 252,
+        "readers_count": 251,
+        "score": 95.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -256,30 +208,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -320,9 +248,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 254,
-        "readers_count": 253,
-        "score": 65.2,
+        "reads": 257,
+        "readers_count": 256,
+        "score": 66.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -346,30 +274,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -410,9 +314,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 243,
-        "readers_count": 242,
-        "score": 63.0,
+        "reads": 246,
+        "readers_count": 245,
+        "score": 64.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -437,30 +341,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -501,10 +381,10 @@
         "reply_count": 0,
         "reply_to_post_number": 5,
         "quote_count": 0,
-        "incoming_link_count": 0,
-        "reads": 233,
-        "readers_count": 232,
-        "score": 61.0,
+        "incoming_link_count": 1,
+        "reads": 236,
+        "readers_count": 235,
+        "score": 67.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -536,30 +416,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -607,9 +463,9 @@
         "reply_to_post_number": 6,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 222,
-        "readers_count": 221,
-        "score": 49.2,
+        "reads": 225,
+        "readers_count": 224,
+        "score": 50.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -648,30 +504,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -712,9 +544,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 216,
-        "readers_count": 215,
-        "score": 53.0,
+        "reads": 219,
+        "readers_count": 218,
+        "score": 53.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -732,36 +564,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -803,9 +611,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 3,
-        "reads": 207,
-        "readers_count": 206,
-        "score": 66.2,
+        "reads": 209,
+        "readers_count": 208,
+        "score": 66.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -823,36 +631,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -893,9 +677,9 @@
         "reply_to_post_number": 9,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 203,
-        "readers_count": 202,
-        "score": 55.2,
+        "reads": 205,
+        "readers_count": 204,
+        "score": 56.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -913,7 +697,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "reply_to_user": {
@@ -926,30 +710,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -991,9 +751,9 @@
         "reply_to_post_number": 6,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 194,
-        "readers_count": 193,
-        "score": 58.4,
+        "reads": 198,
+        "readers_count": 197,
+        "score": 59.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1011,7 +771,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "reply_to_user": {
           "id": 15651,
@@ -1024,30 +784,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1093,10 +829,10 @@
         "reply_count": 1,
         "reply_to_post_number": 11,
         "quote_count": 0,
-        "incoming_link_count": 3,
-        "reads": 195,
-        "readers_count": 194,
-        "score": 73.6,
+        "incoming_link_count": 4,
+        "reads": 199,
+        "readers_count": 198,
+        "score": 79.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1114,7 +850,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "reply_to_user": {
           "id": 16094,
@@ -1127,30 +863,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1198,9 +910,9 @@
         "reply_to_post_number": 13,
         "quote_count": 0,
         "incoming_link_count": 5,
-        "reads": 171,
-        "readers_count": 170,
-        "score": 68.8,
+        "reads": 174,
+        "readers_count": 173,
+        "score": 69.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1218,7 +930,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Course TA",
         "title_is_group": false,
         "reply_to_user": {
@@ -1231,30 +943,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1296,9 +984,9 @@
         "reply_to_post_number": 14,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 171,
-        "readers_count": 170,
-        "score": 53.8,
+        "reads": 174,
+        "readers_count": 173,
+        "score": 54.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1316,7 +1004,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "reply_to_user": {
           "id": 15651,
@@ -1329,30 +1017,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1400,9 +1064,9 @@
         "reply_to_post_number": 4,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 173,
-        "readers_count": 172,
-        "score": 59.4,
+        "reads": 176,
+        "readers_count": 175,
+        "score": 60.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1420,7 +1084,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Course TA",
         "title_is_group": false,
         "reply_to_user": {
@@ -1434,30 +1098,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1505,9 +1145,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 8,
-        "reads": 167,
-        "readers_count": 166,
-        "score": 78.2,
+        "reads": 170,
+        "readers_count": 169,
+        "score": 79.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1525,36 +1165,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "",
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1596,9 +1212,9 @@
         "reply_to_post_number": 10,
         "quote_count": 0,
         "incoming_link_count": 3,
-        "reads": 156,
-        "readers_count": 155,
-        "score": 55.8,
+        "reads": 158,
+        "readers_count": 157,
+        "score": 56.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1629,30 +1245,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1694,9 +1286,9 @@
         "reply_to_post_number": 17,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 167,
-        "readers_count": 166,
-        "score": 52.8,
+        "reads": 172,
+        "readers_count": 171,
+        "score": 54.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1759,30 +1351,6 @@
             "id": 2,
             "count": 1,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -1828,9 +1396,9 @@
         "reply_to_post_number": 18,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 169,
-        "readers_count": 168,
-        "score": 43.0,
+        "reads": 174,
+        "readers_count": 173,
+        "score": 44.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1860,30 +1428,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1924,9 +1468,9 @@
         "reply_to_post_number": 20,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 168,
-        "readers_count": 167,
-        "score": 52.8,
+        "reads": 173,
+        "readers_count": 172,
+        "score": 54.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -1967,30 +1511,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2037,9 +1557,9 @@
         "reply_to_post_number": 19,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 156,
-        "readers_count": 155,
-        "score": 30.4,
+        "reads": 158,
+        "readers_count": 157,
+        "score": 31.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2069,30 +1589,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2134,9 +1630,9 @@
         "reply_to_post_number": 14,
         "quote_count": 0,
         "incoming_link_count": 7,
-        "reads": 151,
-        "readers_count": 150,
-        "score": 69.8,
+        "reads": 152,
+        "readers_count": 151,
+        "score": 70.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2166,30 +1662,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2231,9 +1703,9 @@
         "reply_to_post_number": 24,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 135,
-        "readers_count": 134,
-        "score": 36.6,
+        "reads": 136,
+        "readers_count": 135,
+        "score": 37.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2264,30 +1736,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2329,9 +1777,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 6,
-        "reads": 137,
-        "readers_count": 136,
-        "score": 57.0,
+        "reads": 138,
+        "readers_count": 137,
+        "score": 57.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2355,30 +1803,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2420,9 +1844,9 @@
         "reply_to_post_number": 25,
         "quote_count": 0,
         "incoming_link_count": 13,
-        "reads": 132,
-        "readers_count": 131,
-        "score": 96.0,
+        "reads": 133,
+        "readers_count": 132,
+        "score": 96.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2452,30 +1876,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2517,9 +1917,9 @@
         "reply_to_post_number": 27,
         "quote_count": 0,
         "incoming_link_count": 5,
-        "reads": 121,
-        "readers_count": 120,
-        "score": 78.8,
+        "reads": 122,
+        "readers_count": 121,
+        "score": 79.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2551,30 +1951,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2622,9 +1998,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 7,
-        "reads": 123,
-        "readers_count": 122,
-        "score": 69.4,
+        "reads": 124,
+        "readers_count": 123,
+        "score": 69.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2648,30 +2024,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2712,9 +2064,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 113,
-        "readers_count": 112,
-        "score": 52.4,
+        "reads": 114,
+        "readers_count": 113,
+        "score": 52.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2739,30 +2091,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2810,9 +2138,9 @@
         "reply_to_post_number": 31,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 112,
-        "readers_count": 111,
-        "score": 27.2,
+        "reads": 113,
+        "readers_count": 112,
+        "score": 27.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2842,30 +2170,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -2906,9 +2210,9 @@
         "reply_to_post_number": 31,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 112,
-        "readers_count": 111,
-        "score": 47.2,
+        "reads": 113,
+        "readers_count": 112,
+        "score": 47.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -2940,30 +2244,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3011,9 +2291,9 @@
         "reply_to_post_number": 32,
         "quote_count": 0,
         "incoming_link_count": 7,
-        "reads": 115,
-        "readers_count": 114,
-        "score": 77.6,
+        "reads": 116,
+        "readers_count": 115,
+        "score": 78.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3045,30 +2325,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3118,7 +2374,7 @@
         "incoming_link_count": 0,
         "reads": 105,
         "readers_count": 104,
-        "score": 20.8,
+        "score": 21.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3142,30 +2398,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3209,7 +2441,7 @@
         "incoming_link_count": 4,
         "reads": 120,
         "readers_count": 119,
-        "score": 58.6,
+        "score": 59.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3235,30 +2467,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3308,7 +2516,7 @@
         "incoming_link_count": 2,
         "reads": 118,
         "readers_count": 117,
-        "score": 48.2,
+        "score": 48.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3347,30 +2555,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3420,7 +2604,7 @@
         "incoming_link_count": 2,
         "reads": 115,
         "readers_count": 114,
-        "score": 62.6,
+        "score": 63.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3451,30 +2635,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3523,7 +2683,7 @@
         "incoming_link_count": 4,
         "reads": 115,
         "readers_count": 114,
-        "score": 42.8,
+        "score": 43.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3547,30 +2707,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3613,7 +2749,7 @@
         "incoming_link_count": 10,
         "reads": 112,
         "readers_count": 111,
-        "score": 82.2,
+        "score": 82.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3637,30 +2773,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3703,7 +2815,7 @@
         "incoming_link_count": 1,
         "reads": 111,
         "readers_count": 110,
-        "score": 41.8,
+        "score": 42.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3734,30 +2846,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3804,9 +2892,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 115,
-        "readers_count": 114,
-        "score": 42.0,
+        "reads": 118,
+        "readers_count": 117,
+        "score": 43.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3831,30 +2919,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3902,9 +2966,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 120,
-        "readers_count": 119,
-        "score": 33.0,
+        "reads": 123,
+        "readers_count": 122,
+        "score": 34.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -3929,30 +2993,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -3994,9 +3034,9 @@
         "reply_to_post_number": 44,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 119,
-        "readers_count": 118,
-        "score": 27.8,
+        "reads": 120,
+        "readers_count": 119,
+        "score": 29.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4034,30 +3074,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4101,7 +3117,7 @@
         "incoming_link_count": 0,
         "reads": 101,
         "readers_count": 100,
-        "score": 34.8,
+        "score": 35.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4133,30 +3149,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4206,7 +3198,7 @@
         "incoming_link_count": 1,
         "reads": 91,
         "readers_count": 90,
-        "score": 27.8,
+        "score": 28.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4230,30 +3222,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4295,9 +3263,9 @@
         "reply_to_post_number": 47,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 99,
-        "readers_count": 98,
-        "score": 29.4,
+        "reads": 100,
+        "readers_count": 99,
+        "score": 30.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4343,30 +3311,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -4407,9 +3351,9 @@
         "reply_to_post_number": 48,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 92,
-        "readers_count": 91,
-        "score": 23.0,
+        "reads": 93,
+        "readers_count": 92,
+        "score": 23.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4439,30 +3383,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4505,7 +3425,7 @@
         "incoming_link_count": 1,
         "reads": 98,
         "readers_count": 97,
-        "score": 39.2,
+        "score": 39.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4535,30 +3455,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4602,7 +3498,7 @@
         "incoming_link_count": 1,
         "reads": 90,
         "readers_count": 89,
-        "score": 22.6,
+        "score": 23.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4632,30 +3528,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4699,7 +3571,7 @@
         "incoming_link_count": 9,
         "reads": 92,
         "readers_count": 91,
-        "score": 63.0,
+        "score": 63.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4739,30 +3611,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4806,7 +3654,7 @@
         "incoming_link_count": 1,
         "reads": 87,
         "readers_count": 86,
-        "score": 27.0,
+        "score": 27.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4839,30 +3687,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -4905,7 +3729,7 @@
         "incoming_link_count": 1,
         "reads": 89,
         "readers_count": 88,
-        "score": 27.4,
+        "score": 27.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -4935,30 +3759,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5001,7 +3801,7 @@
         "incoming_link_count": 0,
         "reads": 80,
         "readers_count": 79,
-        "score": 20.8,
+        "score": 21.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5031,30 +3831,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5097,7 +3873,7 @@
         "incoming_link_count": 1,
         "reads": 84,
         "readers_count": 83,
-        "score": 26.6,
+        "score": 26.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5121,30 +3897,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5187,7 +3939,7 @@
         "incoming_link_count": 0,
         "reads": 80,
         "readers_count": 79,
-        "score": 35.6,
+        "score": 36.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5219,30 +3971,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5292,7 +4020,7 @@
         "incoming_link_count": 0,
         "reads": 78,
         "readers_count": 77,
-        "score": 15.2,
+        "score": 15.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5323,30 +4051,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5390,7 +4094,7 @@
         "incoming_link_count": 0,
         "reads": 75,
         "readers_count": 74,
-        "score": 29.6,
+        "score": 30.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5422,30 +4126,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5495,7 +4175,7 @@
         "incoming_link_count": 1,
         "reads": 82,
         "readers_count": 81,
-        "score": 26.0,
+        "score": 26.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5525,30 +4205,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5592,7 +4248,7 @@
         "incoming_link_count": 2,
         "reads": 81,
         "readers_count": 80,
-        "score": 25.6,
+        "score": 26.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5623,30 +4279,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5688,9 +4320,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 85,
-        "readers_count": 84,
-        "score": 21.2,
+        "reads": 88,
+        "readers_count": 87,
+        "score": 22.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5715,30 +4347,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5780,9 +4388,9 @@
         "reply_to_post_number": 60,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 88,
-        "readers_count": 87,
-        "score": 36.6,
+        "reads": 91,
+        "readers_count": 90,
+        "score": 38.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5831,30 +4439,6 @@
             "id": 2,
             "count": 1,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -5901,9 +4485,9 @@
         "reply_to_post_number": 63,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 88,
-        "readers_count": 87,
-        "score": 21.6,
+        "reads": 91,
+        "readers_count": 90,
+        "score": 23.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -5933,30 +4517,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -5998,9 +4558,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 88,
-        "readers_count": 87,
-        "score": 21.8,
+        "reads": 91,
+        "readers_count": 90,
+        "score": 23.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -6024,30 +4584,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6090,7 +4626,7 @@
         "incoming_link_count": 0,
         "reads": 76,
         "readers_count": 75,
-        "score": 20.0,
+        "score": 20.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -6121,30 +4657,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6219,30 +4731,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -6284,7 +4772,7 @@
         "incoming_link_count": 0,
         "reads": 76,
         "readers_count": 75,
-        "score": 20.0,
+        "score": 20.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -6308,30 +4796,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6374,7 +4838,7 @@
         "incoming_link_count": 2,
         "reads": 74,
         "readers_count": 73,
-        "score": 29.6,
+        "score": 29.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -6398,30 +4862,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6465,7 +4905,7 @@
         "incoming_link_count": 1,
         "reads": 74,
         "readers_count": 73,
-        "score": 24.4,
+        "score": 24.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -6489,30 +4929,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6555,7 +4971,7 @@
         "incoming_link_count": 0,
         "reads": 75,
         "readers_count": 74,
-        "score": 19.8,
+        "score": 20.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -6585,30 +5001,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6692,30 +5084,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -6758,7 +5126,7 @@
         "incoming_link_count": 1,
         "reads": 73,
         "readers_count": 72,
-        "score": 19.4,
+        "score": 19.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -6798,30 +5166,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -6865,7 +5209,7 @@
         "incoming_link_count": 0,
         "reads": 70,
         "readers_count": 69,
-        "score": 13.8,
+        "score": 14.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -6913,30 +5257,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -6979,7 +5299,7 @@
         "incoming_link_count": 0,
         "reads": 68,
         "readers_count": 67,
-        "score": 28.2,
+        "score": 28.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7020,30 +5340,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7093,7 +5389,7 @@
         "incoming_link_count": 0,
         "reads": 69,
         "readers_count": 68,
-        "score": 13.4,
+        "score": 13.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7123,30 +5419,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7189,7 +5461,7 @@
         "incoming_link_count": 0,
         "reads": 69,
         "readers_count": 68,
-        "score": 13.6,
+        "score": 13.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7219,30 +5491,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7285,7 +5533,7 @@
         "incoming_link_count": 0,
         "reads": 71,
         "readers_count": 70,
-        "score": 19.0,
+        "score": 19.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7309,30 +5557,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7375,7 +5599,7 @@
         "incoming_link_count": 0,
         "reads": 65,
         "readers_count": 64,
-        "score": 12.8,
+        "score": 13.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7405,30 +5629,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7471,7 +5671,7 @@
         "incoming_link_count": 0,
         "reads": 66,
         "readers_count": 65,
-        "score": 18.0,
+        "score": 18.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7495,30 +5695,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7561,7 +5737,7 @@
         "incoming_link_count": 1,
         "reads": 66,
         "readers_count": 65,
-        "score": 18.0,
+        "score": 18.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7591,30 +5767,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7657,7 +5809,7 @@
         "incoming_link_count": 0,
         "reads": 61,
         "readers_count": 60,
-        "score": 22.0,
+        "score": 22.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7697,30 +5849,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7762,9 +5890,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 60,
-        "readers_count": 59,
-        "score": 16.4,
+        "reads": 63,
+        "readers_count": 62,
+        "score": 17.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7788,30 +5916,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7852,9 +5956,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 74,
-        "readers_count": 73,
-        "score": 19.2,
+        "reads": 77,
+        "readers_count": 76,
+        "score": 20.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7879,30 +5983,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -7944,9 +6024,9 @@
         "reply_to_post_number": 82,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 71,
-        "readers_count": 70,
-        "score": 18.6,
+        "reads": 73,
+        "readers_count": 72,
+        "score": 19.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -7976,30 +6056,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -8073,30 +6129,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -8138,7 +6170,7 @@
         "incoming_link_count": 2,
         "reads": 56,
         "readers_count": 55,
-        "score": 21.0,
+        "score": 21.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -8162,30 +6194,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -8228,7 +6236,7 @@
         "incoming_link_count": 0,
         "reads": 55,
         "readers_count": 54,
-        "score": 25.8,
+        "score": 26.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -8261,30 +6269,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -8334,7 +6318,7 @@
         "incoming_link_count": 0,
         "reads": 55,
         "readers_count": 54,
-        "score": 15.8,
+        "score": 16.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -8358,30 +6342,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -8425,7 +6385,7 @@
         "incoming_link_count": 1,
         "reads": 56,
         "readers_count": 55,
-        "score": 51.0,
+        "score": 51.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -8477,30 +6437,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -8581,30 +6517,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -8671,30 +6583,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -8769,30 +6657,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -8874,30 +6738,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -8940,7 +6780,7 @@
         "incoming_link_count": 0,
         "reads": 48,
         "readers_count": 47,
-        "score": 9.4,
+        "score": 9.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -8964,30 +6804,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9030,7 +6846,7 @@
         "incoming_link_count": 0,
         "reads": 55,
         "readers_count": 54,
-        "score": 10.8,
+        "score": 11.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9055,30 +6871,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9147,30 +6939,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -9237,30 +7005,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -9302,7 +7046,7 @@
         "incoming_link_count": 0,
         "reads": 50,
         "readers_count": 49,
-        "score": 9.8,
+        "score": 10.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9326,30 +7070,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9392,7 +7112,7 @@
         "incoming_link_count": 0,
         "reads": 48,
         "readers_count": 47,
-        "score": 14.4,
+        "score": 14.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9424,30 +7144,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9490,7 +7186,7 @@
         "incoming_link_count": 0,
         "reads": 49,
         "readers_count": 48,
-        "score": 14.4,
+        "score": 14.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9520,30 +7216,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9584,9 +7256,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 50,
-        "readers_count": 49,
-        "score": 24.4,
+        "reads": 53,
+        "readers_count": 52,
+        "score": 25.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9610,30 +7282,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9674,9 +7322,9 @@
         "reply_to_post_number": 102,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 51,
-        "readers_count": 50,
-        "score": 9.6,
+        "reads": 54,
+        "readers_count": 53,
+        "score": 10.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9715,30 +7363,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9780,9 +7404,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 52,
-        "readers_count": 51,
-        "score": 9.8,
+        "reads": 56,
+        "readers_count": 55,
+        "score": 11.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9806,30 +7430,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9870,9 +7470,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 56,
-        "readers_count": 55,
-        "score": 15.6,
+        "reads": 60,
+        "readers_count": 59,
+        "score": 16.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9896,30 +7496,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -9960,9 +7536,9 @@
         "reply_to_post_number": 106,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 49,
-        "readers_count": 48,
-        "score": 9.6,
+        "reads": 50,
+        "readers_count": 49,
+        "score": 9.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -9992,30 +7568,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10058,7 +7610,7 @@
         "incoming_link_count": 1,
         "reads": 50,
         "readers_count": 49,
-        "score": 14.6,
+        "score": 15.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10088,30 +7640,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10154,7 +7682,7 @@
         "incoming_link_count": 0,
         "reads": 50,
         "readers_count": 49,
-        "score": 14.6,
+        "score": 15.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10184,30 +7712,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10250,7 +7754,7 @@
         "incoming_link_count": 0,
         "reads": 48,
         "readers_count": 47,
-        "score": 9.2,
+        "score": 9.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10280,30 +7784,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10346,7 +7826,7 @@
         "incoming_link_count": 0,
         "reads": 49,
         "readers_count": 48,
-        "score": 14.4,
+        "score": 14.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10376,30 +7856,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10442,7 +7898,7 @@
         "incoming_link_count": 2,
         "reads": 53,
         "readers_count": 52,
-        "score": 25.2,
+        "score": 25.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10472,30 +7928,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10538,7 +7970,7 @@
         "incoming_link_count": 0,
         "reads": 52,
         "readers_count": 51,
-        "score": 35.0,
+        "score": 35.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10577,30 +8009,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10649,7 +8057,7 @@
         "incoming_link_count": 1,
         "reads": 51,
         "readers_count": 50,
-        "score": 40.0,
+        "score": 40.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10674,30 +8082,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10746,7 +8130,7 @@
         "incoming_link_count": 0,
         "reads": 48,
         "readers_count": 47,
-        "score": 9.4,
+        "score": 9.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10776,30 +8160,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10843,7 +8203,7 @@
         "incoming_link_count": 0,
         "reads": 42,
         "readers_count": 41,
-        "score": 28.2,
+        "score": 28.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10875,30 +8235,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -10948,7 +8284,7 @@
         "incoming_link_count": 0,
         "reads": 44,
         "readers_count": 43,
-        "score": 8.4,
+        "score": 8.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -10979,30 +8315,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11046,7 +8358,7 @@
         "incoming_link_count": 0,
         "reads": 39,
         "readers_count": 38,
-        "score": 17.6,
+        "score": 17.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11071,30 +8383,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11138,7 +8426,7 @@
         "incoming_link_count": 0,
         "reads": 42,
         "readers_count": 41,
-        "score": 8.2,
+        "score": 8.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11169,30 +8457,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11236,7 +8500,7 @@
         "incoming_link_count": 0,
         "reads": 45,
         "readers_count": 44,
-        "score": 13.6,
+        "score": 14.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11266,30 +8530,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11332,7 +8572,7 @@
         "incoming_link_count": 1,
         "reads": 44,
         "readers_count": 43,
-        "score": 18.4,
+        "score": 18.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11356,30 +8596,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11420,9 +8636,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 47,
-        "readers_count": 46,
-        "score": 18.8,
+        "reads": 49,
+        "readers_count": 48,
+        "score": 19.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11446,30 +8662,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11511,9 +8703,9 @@
         "reply_to_post_number": 123,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 46,
-        "readers_count": 45,
-        "score": 28.8,
+        "reads": 48,
+        "readers_count": 47,
+        "score": 29.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11544,30 +8736,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11614,9 +8782,9 @@
         "reply_to_post_number": 119,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 47,
-        "readers_count": 46,
-        "score": 14.0,
+        "reads": 49,
+        "readers_count": 48,
+        "score": 14.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11646,30 +8814,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11710,9 +8854,9 @@
         "reply_to_post_number": 119,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 47,
-        "readers_count": 46,
-        "score": 14.0,
+        "reads": 49,
+        "readers_count": 48,
+        "score": 14.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11742,30 +8886,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11806,9 +8926,9 @@
         "reply_to_post_number": 113,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 43,
-        "readers_count": 42,
-        "score": 28.2,
+        "reads": 45,
+        "readers_count": 44,
+        "score": 29.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11839,30 +8959,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -11911,7 +9007,7 @@
         "incoming_link_count": 0,
         "reads": 38,
         "readers_count": 37,
-        "score": 12.4,
+        "score": 12.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -11941,30 +9037,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12007,7 +9079,7 @@
         "incoming_link_count": 0,
         "reads": 34,
         "readers_count": 33,
-        "score": 41.6,
+        "score": 41.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -12032,30 +9104,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12104,7 +9152,7 @@
         "incoming_link_count": 0,
         "reads": 38,
         "readers_count": 37,
-        "score": 22.2,
+        "score": 22.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -12136,30 +9184,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12209,7 +9233,7 @@
         "incoming_link_count": 0,
         "reads": 36,
         "readers_count": 35,
-        "score": 11.8,
+        "score": 12.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -12239,30 +9263,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12306,7 +9306,7 @@
         "incoming_link_count": 0,
         "reads": 34,
         "readers_count": 33,
-        "score": 11.4,
+        "score": 11.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -12330,30 +9330,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12396,7 +9372,7 @@
         "incoming_link_count": 0,
         "reads": 37,
         "readers_count": 36,
-        "score": 7.0,
+        "score": 7.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -12426,30 +9402,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12493,7 +9445,7 @@
         "incoming_link_count": 0,
         "reads": 33,
         "readers_count": 32,
-        "score": 6.4,
+        "score": 6.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -12523,30 +9475,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12590,7 +9518,7 @@
         "incoming_link_count": 1,
         "reads": 30,
         "readers_count": 29,
-        "score": 15.8,
+        "score": 16.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -12621,30 +9549,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12720,30 +9624,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -12816,30 +9696,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -12923,30 +9779,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -13021,30 +9853,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -13118,30 +9926,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -13183,7 +9967,7 @@
         "incoming_link_count": 0,
         "reads": 30,
         "readers_count": 29,
-        "score": 5.8,
+        "score": 6.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13208,30 +9992,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -13275,7 +10035,7 @@
         "incoming_link_count": 0,
         "reads": 30,
         "readers_count": 29,
-        "score": 5.8,
+        "score": 6.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13306,30 +10066,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -13373,7 +10109,7 @@
         "incoming_link_count": 0,
         "reads": 30,
         "readers_count": 29,
-        "score": 5.8,
+        "score": 6.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13404,30 +10140,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -13471,7 +10183,7 @@
         "incoming_link_count": 0,
         "reads": 31,
         "readers_count": 30,
-        "score": 11.0,
+        "score": 11.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13495,30 +10207,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -13559,9 +10247,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 32,
-        "readers_count": 31,
-        "score": 11.2,
+        "reads": 34,
+        "readers_count": 33,
+        "score": 11.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13585,30 +10273,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -13649,9 +10313,9 @@
         "reply_to_post_number": 137,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 31,
-        "readers_count": 30,
-        "score": 6.0,
+        "reads": 33,
+        "readers_count": 32,
+        "score": 6.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13681,30 +10345,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -13745,9 +10385,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 32,
-        "readers_count": 31,
-        "score": 6.2,
+        "reads": 34,
+        "readers_count": 33,
+        "score": 6.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13771,30 +10411,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -13837,7 +10453,7 @@
         "incoming_link_count": 0,
         "reads": 31,
         "readers_count": 30,
-        "score": 11.0,
+        "score": 11.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13869,30 +10485,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -13933,9 +10525,9 @@
         "reply_to_post_number": 150,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 27,
-        "readers_count": 26,
-        "score": 10.2,
+        "reads": 28,
+        "readers_count": 27,
+        "score": 10.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -13966,30 +10558,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14032,9 +10600,9 @@
         "reply_to_post_number": 151,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 26,
-        "readers_count": 25,
-        "score": 10.0,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 10.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14064,30 +10632,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14128,9 +10672,9 @@
         "reply_to_post_number": 152,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 26,
-        "readers_count": 25,
-        "score": 10.0,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 10.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14161,30 +10705,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14227,9 +10747,9 @@
         "reply_to_post_number": 153,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 26,
-        "readers_count": 25,
-        "score": 5.0,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 5.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14259,30 +10779,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14323,9 +10819,9 @@
         "reply_to_post_number": 146,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 23,
-        "readers_count": 22,
-        "score": 9.4,
+        "reads": 24,
+        "readers_count": 23,
+        "score": 9.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14356,30 +10852,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14423,7 +10895,7 @@
         "incoming_link_count": 0,
         "reads": 26,
         "readers_count": 25,
-        "score": 10.0,
+        "score": 10.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14447,30 +10919,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14513,7 +10961,7 @@
         "incoming_link_count": 0,
         "reads": 25,
         "readers_count": 24,
-        "score": 9.8,
+        "score": 10.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14537,30 +10985,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14603,7 +11027,7 @@
         "incoming_link_count": 1,
         "reads": 25,
         "readers_count": 24,
-        "score": 24.8,
+        "score": 25.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14635,30 +11059,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14708,7 +11108,7 @@
         "incoming_link_count": 0,
         "reads": 25,
         "readers_count": 24,
-        "score": 4.8,
+        "score": 5.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14748,30 +11148,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14815,7 +11191,7 @@
         "incoming_link_count": 0,
         "reads": 27,
         "readers_count": 26,
-        "score": 5.2,
+        "score": 5.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14846,30 +11222,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -14913,7 +11265,7 @@
         "incoming_link_count": 0,
         "reads": 25,
         "readers_count": 24,
-        "score": 4.8,
+        "score": 5.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -14943,30 +11295,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15009,7 +11337,7 @@
         "incoming_link_count": 1,
         "reads": 25,
         "readers_count": 24,
-        "score": 14.8,
+        "score": 15.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15048,30 +11376,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15114,7 +11418,7 @@
         "incoming_link_count": 0,
         "reads": 26,
         "readers_count": 25,
-        "score": 15.0,
+        "score": 15.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15145,30 +11449,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15212,7 +11492,7 @@
         "incoming_link_count": 0,
         "reads": 27,
         "readers_count": 26,
-        "score": 10.2,
+        "score": 10.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15236,30 +11516,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15303,7 +11559,7 @@
         "incoming_link_count": 0,
         "reads": 25,
         "readers_count": 24,
-        "score": 4.8,
+        "score": 5.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15333,30 +11589,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15400,7 +11632,7 @@
         "incoming_link_count": 0,
         "reads": 27,
         "readers_count": 26,
-        "score": 5.0,
+        "score": 5.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15430,30 +11662,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15495,9 +11703,9 @@
         "reply_to_post_number": 164,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 26,
-        "readers_count": 25,
-        "score": 4.8,
+        "reads": 28,
+        "readers_count": 27,
+        "score": 5.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15528,30 +11736,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15594,9 +11778,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 25,
-        "readers_count": 24,
-        "score": 14.6,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 15.4,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15620,30 +11804,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15685,9 +11845,9 @@
         "reply_to_post_number": 168,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 27,
-        "readers_count": 26,
-        "score": 10.0,
+        "reads": 29,
+        "readers_count": 28,
+        "score": 10.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15717,30 +11877,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15784,7 +11920,7 @@
         "incoming_link_count": 0,
         "reads": 24,
         "readers_count": 23,
-        "score": 4.6,
+        "score": 4.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15814,30 +11950,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -15880,7 +11992,7 @@
         "incoming_link_count": 0,
         "reads": 25,
         "readers_count": 24,
-        "score": 9.8,
+        "score": 10.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -15928,30 +12040,6 @@
           {
             "id": 2,
             "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
-            "can_act": true
           }
         ],
         "moderator": false,
@@ -15995,7 +12083,7 @@
         "incoming_link_count": 0,
         "reads": 26,
         "readers_count": 25,
-        "score": 10.0,
+        "score": 10.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -16019,30 +12107,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -16085,7 +12149,7 @@
         "incoming_link_count": 0,
         "reads": 25,
         "readers_count": 24,
-        "score": 9.8,
+        "score": 10.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -16116,30 +12180,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -16184,7 +12224,7 @@
         "incoming_link_count": 1,
         "reads": 29,
         "readers_count": 28,
-        "score": 50.6,
+        "score": 50.8,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -16215,30 +12255,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -16287,7 +12303,7 @@
         "incoming_link_count": 0,
         "reads": 23,
         "readers_count": 22,
-        "score": 4.4,
+        "score": 4.6,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -16317,30 +12333,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -16383,7 +12375,7 @@
         "incoming_link_count": 0,
         "reads": 25,
         "readers_count": 24,
-        "score": 19.8,
+        "score": 20.0,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -16415,30 +12407,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -16486,9 +12454,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 22,
-        "readers_count": 21,
-        "score": 4.0,
+        "reads": 26,
+        "readers_count": 25,
+        "score": 5.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -16512,30 +12480,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -16576,9 +12520,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 22,
-        "readers_count": 21,
-        "score": 9.0,
+        "reads": 26,
+        "readers_count": 25,
+        "score": 10.2,
         "yours": false,
         "topic_id": 161120,
         "topic_slug": "ga2-deployment-tools-discussion-thread-tds-jan-2025",
@@ -16602,30 +12546,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -16828,131 +12748,155 @@
   "timeline_lookup": [
     [
       1,
-      148
+      159
     ],
     [
       2,
-      144
+      154
     ],
     [
       3,
-      139
+      150
     ],
     [
-      7,
-      138
+      5,
+      149
     ],
     [
       9,
-      137
+      148
     ],
     [
       23,
-      136
+      147
     ],
     [
       24,
-      137
+      148
     ],
     [
       25,
-      136
+      147
     ],
     [
       26,
-      135
+      146
     ],
     [
       29,
-      134
+      145
     ],
     [
-      34,
-      133
+      30,
+      144
+    ],
+    [
+      32,
+      145
+    ],
+    [
+      33,
+      144
     ],
     [
       36,
-      132
+      143
     ],
     [
       42,
-      131
+      142
     ],
     [
       43,
-      133
+      144
     ],
     [
       44,
-      131
+      142
     ],
     [
       46,
-      130
+      141
     ],
     [
       53,
-      129
+      140
     ],
     [
       64,
-      128
+      139
     ],
     [
-      73,
-      127
+      72,
+      138
     ],
     [
       78,
-      126
+      137
     ],
     [
       79,
-      129
+      140
     ],
     [
       80,
-      128
+      139
     ],
     [
       81,
-      126
+      137
     ],
     [
       84,
-      125
+      136
     ],
     [
-      87,
-      124
+      86,
+      135
+    ],
+    [
+      93,
+      134
     ],
     [
       94,
-      122
+      133
+    ],
+    [
+      97,
+      132
+    ],
+    [
+      98,
+      133
     ],
     [
       99,
-      121
+      132
     ],
     [
-      116,
-      120
+      114,
+      131
     ],
     [
-      125,
-      119
+      124,
+      130
     ],
     [
-      140,
-      118
+      138,
+      129
     ],
     [
       163,
-      117
+      128
+    ],
+    [
+      168,
+      127
     ],
     [
       169,
-      114
+      125
     ]
   ],
   "tags": [
@@ -16967,7 +12911,7 @@
   "fancy_title": "GA2 - Deployment Tools - Discussion Thread [TDS Jan 2025]",
   "posts_count": 170,
   "created_at": "2025-01-03T07:12:14.287Z",
-  "views": 989,
+  "views": 1012,
   "reply_count": 112,
   "like_count": 40,
   "last_posted_at": "2025-02-06T13:21:38.546Z",
@@ -16990,44 +12934,41 @@
   "draft": null,
   "draft_key": "topic_161120",
   "draft_sequence": 0,
-  "posted": false,
   "unpinned": null,
   "pinned": false,
   "current_post_number": 1,
   "highest_post_number": 178,
-  "last_read_post_number": 17,
-  "last_read_post_id": 579621,
   "deleted_by": null,
   "actions_summary": [
     {
       "id": 4,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 8,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 10,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 7,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     }
   ],
   "chunk_size": 20,
   "bookmarked": false,
   "topic_timer": null,
-  "message_bus_last_id": 5,
+  "message_bus_last_id": 0,
   "participant_count": 46,
   "show_read_indicator": false,
   "thumbnails": null,
@@ -17053,10 +12994,7 @@
   "details": {
     "can_edit": false,
     "notification_level": 1,
-    "notifications_reason_id": null,
     "can_create_post": true,
-    "can_reply_as_new_topic": true,
-    "can_flag_topic": true,
     "participants": [
       {
         "id": 15651,
@@ -17073,20 +13011,6 @@
         "trust_level": 2
       },
       {
-        "id": 27771,
-        "username": "23F300327",
-        "name": "Mishkat Chougule",
-        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f300327/{size}/91361_2.png",
-        "post_count": 11,
-        "primary_group_name": "ds-students",
-        "flair_name": "ds-students",
-        "flair_url": null,
-        "flair_color": "",
-        "flair_bg_color": "",
-        "flair_group_id": 294,
-        "trust_level": 1
-      },
-      {
         "id": 16094,
         "username": "carlton",
         "name": "Carlton D'Silva",
@@ -17099,6 +13023,20 @@
         "flair_bg_color": "",
         "flair_group_id": 294,
         "trust_level": 3
+      },
+      {
+        "id": 27771,
+        "username": "23F300327",
+        "name": "Mishkat Chougule",
+        "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f300327/{size}/91361_2.png",
+        "post_count": 11,
+        "primary_group_name": "ds-students",
+        "flair_name": "ds-students",
+        "flair_url": null,
+        "flair_color": "",
+        "flair_bg_color": "",
+        "flair_group_id": 294,
+        "trust_level": 1
       },
       {
         "id": 29311,

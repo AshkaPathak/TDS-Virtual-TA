@@ -1,7 +1,7 @@
 ---
 title: "Scraping IMDb with JavaScript"
 original_url: "https://tds.s-anand.net/#/scraping-imdb-with-javascript?id=scraping-imdb-with-javascript"
-downloaded_at: "2025-05-31T21:35:23.779824"
+downloaded_at: "2025-06-11T10:41:44.287118"
 ---
 
 [Scraping IMDb with JavaScript](#/scraping-imdb-with-javascript?id=scraping-imdb-with-javascript)

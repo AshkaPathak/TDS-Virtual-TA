@@ -16,9 +16,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 72,
-        "readers_count": 71,
-        "score": 14.4,
+        "reads": 87,
+        "readers_count": 86,
+        "score": 17.2,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -36,36 +36,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "",
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -107,9 +83,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 64,
-        "readers_count": 63,
-        "score": 32.8,
+        "reads": 79,
+        "readers_count": 78,
+        "score": 35.6,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -136,7 +112,7 @@
             "clicks": 0
           }
         ],
-        "read": true,
+        "read": false,
         "user_title": "Course TA",
         "title_is_group": false,
         "bookmarked": false,
@@ -144,30 +120,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -216,9 +168,9 @@
         "reply_to_post_number": 4,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 49,
-        "readers_count": 48,
-        "score": 14.8,
+        "reads": 57,
+        "readers_count": 56,
+        "score": 16.2,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -236,7 +188,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "reply_to_user": {
           "id": 13078,
@@ -248,30 +200,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -312,9 +240,9 @@
         "reply_to_post_number": 5,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 44,
-        "readers_count": 43,
-        "score": 38.8,
+        "reads": 52,
+        "readers_count": 51,
+        "score": 40.2,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -332,7 +260,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "reply_to_user": {
@@ -346,30 +274,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -418,9 +322,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 33,
-        "readers_count": 32,
-        "score": 6.6,
+        "reads": 39,
+        "readers_count": 38,
+        "score": 7.6,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -438,36 +342,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "",
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -508,9 +388,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 34,
-        "readers_count": 33,
-        "score": 11.6,
+        "reads": 42,
+        "readers_count": 41,
+        "score": 13.2,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -528,37 +408,13 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Community-TA",
         "title_is_group": false,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -601,9 +457,9 @@
         "reply_to_post_number": 10,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 28,
-        "readers_count": 27,
-        "score": 5.4,
+        "reads": 36,
+        "readers_count": 35,
+        "score": 6.8,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -621,7 +477,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "reply_to_user": {
@@ -634,30 +490,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -699,9 +531,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 25,
-        "readers_count": 24,
-        "score": 4.8,
+        "reads": 31,
+        "readers_count": 30,
+        "score": 5.8,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -719,36 +551,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -789,9 +597,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 24,
-        "readers_count": 23,
-        "score": 4.6,
+        "reads": 29,
+        "readers_count": 28,
+        "score": 5.4,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -809,37 +617,13 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -881,9 +665,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 23,
-        "readers_count": 22,
-        "score": 34.6,
+        "reads": 27,
+        "readers_count": 26,
+        "score": 35.2,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -901,37 +685,13 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -978,9 +738,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 52,
-        "readers_count": 51,
-        "score": 10.4,
+        "reads": 56,
+        "readers_count": 55,
+        "score": 11.0,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -998,36 +758,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1068,9 +804,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 48,
-        "readers_count": 47,
-        "score": 9.6,
+        "reads": 51,
+        "readers_count": 50,
+        "score": 10.2,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1088,37 +824,13 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Course TA",
         "title_is_group": false,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1160,9 +872,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 41,
-        "readers_count": 40,
-        "score": 8.2,
+        "reads": 43,
+        "readers_count": 42,
+        "score": 8.6,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1180,36 +892,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1250,9 +938,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 35,
-        "readers_count": 34,
-        "score": 7.0,
+        "reads": 37,
+        "readers_count": 36,
+        "score": 7.4,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1270,36 +958,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1340,9 +1004,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 26,
-        "readers_count": 25,
-        "score": 10.2,
+        "reads": 29,
+        "readers_count": 28,
+        "score": 10.8,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1360,36 +1024,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1430,9 +1070,9 @@
         "reply_to_post_number": 19,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 28,
-        "readers_count": 27,
-        "score": 15.6,
+        "reads": 31,
+        "readers_count": 30,
+        "score": 16.2,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1450,7 +1090,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "reply_to_user": {
@@ -1463,30 +1103,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1529,9 +1145,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 17,
-        "readers_count": 16,
-        "score": 13.4,
+        "reads": 20,
+        "readers_count": 19,
+        "score": 14.0,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1564,30 +1180,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1628,9 +1220,9 @@
         "reply_to_post_number": 21,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 18,
-        "readers_count": 17,
-        "score": 18.6,
+        "reads": 24,
+        "readers_count": 23,
+        "score": 19.8,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1662,30 +1254,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1733,9 +1301,9 @@
         "reply_to_post_number": 20,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 19,
-        "readers_count": 18,
-        "score": 3.6,
+        "reads": 24,
+        "readers_count": 23,
+        "score": 4.8,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1753,7 +1321,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "reply_to_user": {
           "id": 16094,
@@ -1765,30 +1333,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1829,9 +1373,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 8,
-        "readers_count": 7,
-        "score": 6.4,
+        "reads": 16,
+        "readers_count": 15,
+        "score": 8.0,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1849,36 +1393,12 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": null,
         "bookmarked": false,
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1919,9 +1439,9 @@
         "reply_to_post_number": 24,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 7,
-        "readers_count": 6,
-        "score": 1.2,
+        "reads": 16,
+        "readers_count": 15,
+        "score": 18.0,
         "yours": false,
         "topic_id": 166189,
         "topic_slug": "tds-assignment-is-not-submitting",
@@ -1939,7 +1459,7 @@
         "can_recover": false,
         "can_see_hidden_post": false,
         "can_wiki": false,
-        "read": true,
+        "read": false,
         "user_title": "Regular",
         "title_is_group": false,
         "reply_to_user": {
@@ -1952,30 +1472,7 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
+            "count": 1,
             "can_act": true
           }
         ],
@@ -1993,9 +1490,15 @@
         "wiki": false,
         "post_url": "/t/tds-assignment-is-not-submitting/166189/25",
         "user_cakedate": "2023-01-25",
-        "reactions": [],
+        "reactions": [
+          {
+            "id": "heart",
+            "type": "emoji",
+            "count": 1
+          }
+        ],
         "current_user_reaction": null,
-        "reaction_users_count": 0,
+        "reaction_users_count": 1,
         "current_user_used_main_reaction": false,
         "can_accept_answer": false,
         "can_unaccept_answer": false,
@@ -2030,43 +1533,59 @@
   "timeline_lookup": [
     [
       1,
-      117
+      128
     ],
     [
       3,
-      115
+      126
+    ],
+    [
+      4,
+      125
     ],
     [
       5,
-      117
+      128
     ],
     [
       6,
-      114
+      124
+    ],
+    [
+      8,
+      125
+    ],
+    [
+      9,
+      124
     ],
     [
       10,
-      117
+      128
     ],
     [
-      13,
-      116
+      12,
+      127
     ],
     [
       14,
-      115
+      126
+    ],
+    [
+      16,
+      125
     ],
     [
       17,
-      113
+      124
     ],
     [
       19,
-      112
+      123
     ],
     [
       20,
-      0
+      11
     ]
   ],
   "tags": [
@@ -2079,9 +1598,9 @@
   "fancy_title": "Tds: assignment is not submitting",
   "posts_count": 21,
   "created_at": "2025-02-03T06:54:27.692Z",
-  "views": 107,
+  "views": 129,
   "reply_count": 5,
-  "like_count": 6,
+  "like_count": 7,
   "last_posted_at": "2025-05-31T09:14:12.326Z",
   "visible": true,
   "closed": false,
@@ -2102,44 +1621,41 @@
   "draft": null,
   "draft_key": "topic_166189",
   "draft_sequence": 0,
-  "posted": false,
   "unpinned": null,
   "pinned": false,
   "current_post_number": 1,
   "highest_post_number": 25,
-  "last_read_post_number": 25,
-  "last_read_post_id": 633608,
   "deleted_by": null,
   "actions_summary": [
     {
       "id": 4,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 8,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 10,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 7,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     }
   ],
   "chunk_size": 20,
   "bookmarked": false,
   "topic_timer": null,
-  "message_bus_last_id": 21,
+  "message_bus_last_id": 3,
   "participant_count": 15,
   "show_read_indicator": false,
   "thumbnails": null,
@@ -2173,10 +1689,7 @@
   "details": {
     "can_edit": false,
     "notification_level": 1,
-    "notifications_reason_id": null,
     "can_create_post": true,
-    "can_reply_as_new_topic": true,
-    "can_flag_topic": true,
     "participants": [
       {
         "id": 16094,

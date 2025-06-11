@@ -1,7 +1,7 @@
 ---
 title: "Splitting Text in Excel"
 original_url: "https://tds.s-anand.net/#/splitting-text-in-excel?id=splitting-text-in-excel"
-downloaded_at: "2025-05-31T21:39:21.126288"
+downloaded_at: "2025-06-11T10:45:08.713740"
 ---
 
 [Splitting Text in Excel](#/splitting-text-in-excel?id=splitting-text-in-excel)

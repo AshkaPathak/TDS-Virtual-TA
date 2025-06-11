@@ -15,10 +15,10 @@
         "reply_count": 1,
         "reply_to_post_number": null,
         "quote_count": 0,
-        "incoming_link_count": 3,
-        "reads": 181,
-        "readers_count": 180,
-        "score": 265.6,
+        "incoming_link_count": 4,
+        "reads": 192,
+        "readers_count": 191,
+        "score": 273.4,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -52,30 +52,6 @@
           {
             "id": 2,
             "count": 14,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -134,9 +110,9 @@
         "reply_to_post_number": 1,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 176,
-        "readers_count": 175,
-        "score": 304.6,
+        "reads": 180,
+        "readers_count": 179,
+        "score": 306.0,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -168,30 +144,6 @@
           {
             "id": 2,
             "count": 16,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -249,9 +201,9 @@
         "reply_to_post_number": 2,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 175,
-        "readers_count": 174,
-        "score": 74.6,
+        "reads": 179,
+        "readers_count": 178,
+        "score": 75.8,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -282,30 +234,6 @@
           {
             "id": 2,
             "count": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -353,9 +281,9 @@
         "reply_to_post_number": 2,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 175,
-        "readers_count": 174,
-        "score": 69.6,
+        "reads": 179,
+        "readers_count": 178,
+        "score": 70.8,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -386,30 +314,6 @@
           {
             "id": 2,
             "count": 1,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -456,9 +360,9 @@
         "reply_to_post_number": 2,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 175,
-        "readers_count": 174,
-        "score": 99.6,
+        "reads": 179,
+        "readers_count": 178,
+        "score": 100.8,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -489,30 +393,6 @@
           {
             "id": 2,
             "count": 4,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -564,9 +444,9 @@
         "reply_to_post_number": 2,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 178,
-        "readers_count": 177,
-        "score": 40.2,
+        "reads": 181,
+        "readers_count": 180,
+        "score": 41.2,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -596,30 +476,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -661,9 +517,9 @@
         "reply_to_post_number": 4,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 182,
-        "readers_count": 181,
-        "score": 81.0,
+        "reads": 185,
+        "readers_count": 184,
+        "score": 82.0,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -694,30 +550,6 @@
           {
             "id": 2,
             "count": 3,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -765,9 +597,9 @@
         "reply_to_post_number": 4,
         "quote_count": 0,
         "incoming_link_count": 1,
-        "reads": 181,
-        "readers_count": 180,
-        "score": 205.8,
+        "reads": 184,
+        "readers_count": 183,
+        "score": 206.8,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -799,30 +631,6 @@
           {
             "id": 2,
             "count": 11,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -880,9 +688,9 @@
         "reply_to_post_number": 9,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 181,
-        "readers_count": 180,
-        "score": 35.8,
+        "reads": 184,
+        "readers_count": 183,
+        "score": 36.8,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -912,30 +720,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -977,9 +761,9 @@
         "reply_to_post_number": 2,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 140,
-        "readers_count": 139,
-        "score": 27.6,
+        "reads": 143,
+        "readers_count": 142,
+        "score": 28.6,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -1009,30 +793,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1074,9 +834,9 @@
         "reply_to_post_number": 3,
         "quote_count": 0,
         "incoming_link_count": 3,
-        "reads": 131,
-        "readers_count": 130,
-        "score": 40.8,
+        "reads": 134,
+        "readers_count": 133,
+        "score": 41.8,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -1115,30 +875,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1179,9 +915,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 148,
-        "readers_count": 147,
-        "score": 73.8,
+        "reads": 155,
+        "readers_count": 154,
+        "score": 76.0,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -1215,30 +951,6 @@
           {
             "id": 2,
             "count": 3,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1286,9 +998,9 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 100,
-        "readers_count": 99,
-        "score": 19.2,
+        "reads": 107,
+        "readers_count": 106,
+        "score": 21.4,
         "yours": false,
         "topic_id": 167344,
         "topic_slug": "project-1-casual-banter",
@@ -1322,30 +1034,6 @@
         "actions_summary": [
           {
             "id": 2,
-            "can_act": true
-          },
-          {
-            "id": 6,
-            "can_act": true
-          },
-          {
-            "id": 3,
-            "can_act": true
-          },
-          {
-            "id": 4,
-            "can_act": true
-          },
-          {
-            "id": 8,
-            "can_act": true
-          },
-          {
-            "id": 10,
-            "can_act": true
-          },
-          {
-            "id": 7,
             "can_act": true
           }
         ],
@@ -1393,144 +1081,31 @@
   "timeline_lookup": [
     [
       1,
-      105
+      116
     ],
     [
       12,
-      104
+      115
     ],
     [
       13,
-      101
+      112
     ]
   ],
   "suggested_topics": [
     {
-      "id": 173524,
-      "title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
-      "fancy_title": "GA1 - Development Tools - Discussion Thread [TDS May 2025]",
-      "slug": "ga1-development-tools-discussion-thread-tds-may-2025",
-      "posts_count": 80,
-      "reply_count": 51,
-      "highest_post_number": 85,
-      "image_url": null,
-      "created_at": "2025-05-01T11:39:00.734Z",
-      "last_posted_at": "2025-05-31T15:34:18.368Z",
-      "bumped": true,
-      "bumped_at": "2025-05-31T15:34:18.368Z",
-      "archetype": "regular",
-      "unseen": false,
-      "last_read_post_number": 82,
-      "unread": 0,
-      "new_posts": 3,
-      "unread_posts": 3,
-      "pinned": false,
-      "unpinned": null,
-      "visible": true,
-      "closed": false,
-      "archived": false,
-      "notification_level": 2,
-      "bookmarked": false,
-      "liked": false,
-      "tags": [
-        "term2-2025",
-        "graded-assignment"
-      ],
-      "tags_descriptions": {},
-      "like_count": 25,
-      "views": 1155,
-      "category_id": 34,
-      "featured_link": null,
-      "has_accepted_answer": false,
-      "posters": [
-        {
-          "extras": null,
-          "description": "Original Poster",
-          "user": {
-            "id": 9419,
-            "username": "s.anand",
-            "name": "Anand S",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/s.anand/{size}/15264_2.png",
-            "primary_group_name": "faculty",
-            "flair_name": "faculty",
-            "flair_url": "chalkboard-user",
-            "flair_bg_color": "f2c26e",
-            "flair_color": "000",
-            "flair_group_id": 54,
-            "trust_level": 4
-          }
-        },
-        {
-          "extras": null,
-          "description": "Frequent Poster",
-          "user": {
-            "id": 22472,
-            "username": "Advaith52",
-            "name": "Advaith Sanil Kumar",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/advaith52/{size}/67172_2.png",
-            "primary_group_name": "ds-students",
-            "flair_name": "ds-students",
-            "flair_group_id": 294,
-            "trust_level": 1
-          }
-        },
-        {
-          "extras": null,
-          "description": "Frequent Poster",
-          "user": {
-            "id": 16094,
-            "username": "carlton",
-            "name": "Carlton D'Silva",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/carlton/{size}/56317_2.png",
-            "primary_group_name": "ds-students",
-            "flair_name": "ds-students",
-            "flair_group_id": 294,
-            "trust_level": 3
-          }
-        },
-        {
-          "extras": null,
-          "description": "Frequent Poster",
-          "user": {
-            "id": 15658,
-            "username": "HritikRoshan_HRM",
-            "name": "HRITIK ROSHAN MAURYA",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/hritikroshan_hrm/{size}/66975_2.png",
-            "primary_group_name": "ds-students",
-            "flair_name": "ds-students",
-            "flair_group_id": 294,
-            "trust_level": 1
-          }
-        },
-        {
-          "extras": "latest",
-          "description": "Most Recent Poster",
-          "user": {
-            "id": 12914,
-            "username": "iAnimeshS",
-            "name": "Animesh",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/ianimeshs/{size}/12415_2.png",
-            "primary_group_name": "ds-students",
-            "flair_name": "ds-students",
-            "flair_group_id": 294,
-            "trust_level": 1
-          }
-        }
-      ]
-    },
-    {
-      "id": 176789,
-      "title": "Vercel deployement error",
-      "fancy_title": "Vercel deployement error",
-      "slug": "vercel-deployement-error",
+      "id": 178618,
+      "title": "Submissions of Weekly Graded Assignment of TDS",
+      "fancy_title": "Submissions of Weekly Graded Assignment of TDS",
+      "slug": "submissions-of-weekly-graded-assignment-of-tds",
       "posts_count": 1,
       "reply_count": 0,
       "highest_post_number": 1,
-      "image_url": null,
-      "created_at": "2025-05-31T11:55:22.507Z",
-      "last_posted_at": "2025-05-31T11:55:22.708Z",
+      "image_url": "https://europe1.discourse-cdn.com/flex013/uploads/iitm/original/3X/e/b/ebebd516796a3f6ff08278e4eb8ee662f7b7158e.jpeg",
+      "created_at": "2025-06-10T06:34:51.065Z",
+      "last_posted_at": "2025-06-10T06:34:51.383Z",
       "bumped": true,
-      "bumped_at": "2025-05-31T11:55:22.708Z",
+      "bumped_at": "2025-06-10T06:34:51.383Z",
       "archetype": "regular",
       "unseen": true,
       "pinned": false,
@@ -1541,12 +1116,13 @@
       "bookmarked": null,
       "liked": null,
       "tags": [
-        "diploma-level",
+        "clarification",
+        "course-portal",
         "term2-2025"
       ],
       "tags_descriptions": {},
       "like_count": 0,
-      "views": 9,
+      "views": 25,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -1555,14 +1131,14 @@
           "extras": "latest single",
           "description": "Original Poster, Most Recent Poster",
           "user": {
-            "id": 25506,
-            "username": "23f3003724",
-            "name": "Vedika Gupta",
-            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/23f3003724/{size}/68806_2.png",
+            "id": 45768,
+            "username": "24f1002463",
+            "name": "Mythili",
+            "avatar_template": "/user_avatar/discourse.onlinedegree.iitm.ac.in/24f1002463/{size}/119814_2.png",
             "primary_group_name": "ds-students",
             "flair_name": "ds-students",
             "flair_group_id": 294,
-            "trust_level": 1
+            "trust_level": 0
           }
         }
       ]
@@ -1578,7 +1154,7 @@
   "fancy_title": "Project 1 - Casual banter",
   "posts_count": 13,
   "created_at": "2025-02-15T16:55:08.372Z",
-  "views": 211,
+  "views": 225,
   "reply_count": 1,
   "like_count": 54,
   "last_posted_at": "2025-02-19T11:01:00.149Z",
@@ -1611,25 +1187,25 @@
       "id": 4,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 8,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 10,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     },
     {
       "id": 7,
       "count": 0,
       "hidden": false,
-      "can_act": true
+      "can_act": false
     }
   ],
   "chunk_size": 20,
@@ -1677,7 +1253,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 4,
-      "views": 34,
+      "views": 35,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": true,
@@ -1764,7 +1340,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 11,
-      "views": 105,
+      "views": 108,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -1874,7 +1450,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 34,
-      "views": 619,
+      "views": 625,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -1978,7 +1554,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 2,
-      "views": 124,
+      "views": 126,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -2082,7 +1658,7 @@
       ],
       "tags_descriptions": {},
       "like_count": 3,
-      "views": 166,
+      "views": 173,
       "category_id": 34,
       "featured_link": null,
       "has_accepted_answer": false,
@@ -2174,8 +1750,6 @@
     "can_edit": false,
     "notification_level": 1,
     "can_create_post": true,
-    "can_reply_as_new_topic": true,
-    "can_flag_topic": true,
     "participants": [
       {
         "id": 16921,
