@@ -33,13 +33,13 @@ def crawl_page(page, url):
         return
     visited.add(url)
 
-    print(f"📄 Visiting: {url}")
+    print(f" Visiting: {url}")
     try:
         page.goto(url, wait_until="domcontentloaded")
         page.wait_for_timeout(1000)
         html = wait_for_article_and_get_html(page)
     except Exception as e:
-        print(f"❌ Error loading page: {url}\n{e}")
+        print(f" Error loading page: {url}\n{e}")
         return
 
     # Extract title and save markdown
@@ -82,7 +82,7 @@ def main():
         with open(METADATA_FILE, "w", encoding="utf-8") as f:
             json.dump(metadata, f, indent=2)
 
-        print(f"\n✅ Completed. {len(metadata)} pages saved.")
+        print(f"\n Completed. {len(metadata)} pages saved.")
         browser.close()
 
 if __name__ == "__main__":
