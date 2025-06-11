@@ -162,8 +162,8 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 129,
-        "readers_count": 128,
+        "reads": 130,
+        "readers_count": 129,
         "score": 25.8,
         "yours": false,
         "topic_id": 169888,
@@ -231,8 +231,8 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 2,
-        "reads": 118,
-        "readers_count": 117,
+        "reads": 119,
+        "readers_count": 118,
         "score": 38.6,
         "yours": false,
         "topic_id": 169888,
@@ -297,8 +297,8 @@
         "reply_to_post_number": 5,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 110,
-        "readers_count": 109,
+        "reads": 111,
+        "readers_count": 110,
         "score": 22.0,
         "yours": false,
         "topic_id": 169888,
@@ -371,8 +371,8 @@
         "reply_to_post_number": null,
         "quote_count": 0,
         "incoming_link_count": 0,
-        "reads": 105,
-        "readers_count": 104,
+        "reads": 106,
+        "readers_count": 105,
         "score": 31.0,
         "yours": false,
         "topic_id": 169888,
@@ -1994,7 +1994,7 @@
       84
     ],
     [
-      8,
+      9,
       83
     ],
     [
@@ -2010,7 +2010,7 @@
       77
     ],
     [
-      19,
+      20,
       76
     ],
     [
@@ -2038,7 +2038,7 @@
   "fancy_title": "GA7 - Data Visualisation - Discussion Thread [TDS Jan 2025]",
   "posts_count": 27,
   "created_at": "2025-03-14T15:47:52.827Z",
-  "views": 326,
+  "views": 327,
   "reply_count": 16,
   "like_count": 4,
   "last_posted_at": "2025-04-11T05:48:24.000Z",
