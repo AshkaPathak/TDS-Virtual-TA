@@ -8,25 +8,25 @@ BASE_URL = "https://discourse.onlinedegree.iitm.ac.in"
 CATEGORY_ID = 34
 CATEGORY_JSON_URL = f"{BASE_URL}/c/courses/tds-kb/{CATEGORY_ID}.json"
 AUTH_STATE_FILE = "auth.json"
-DATE_FROM = datetime(2025, 1, 1)
-DATE_TO = datetime(2025, 4, 15)
+DATE_FROM = datetime(2024, 12, 1)
+DATE_TO = datetime(2025, 6, 15)
 
 def parse_date(date_str):
-    """Convert date strings from Discourse to datetime objects."""
+    """Convert Discourse date strings to datetime objects."""
     try:
         return datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%S.%fZ")
     except ValueError:
         return datetime.strptime(date_str, "%Y-%m-%dT%H:%M:%SZ")
 
 def manual_login(playwright):
-    """Prompt the user to login manually and save auth state."""
+    """Prompt the user to log in manually and save auth state."""
     print("Login required. Opening browser...")
     browser = playwright.chromium.launch(headless=False)
     context = browser.new_context()
     page = context.new_page()
     page.goto(f"{BASE_URL}/login")
-    print("Please complete the login manually, then press Resume in Playwright.")
-    page.pause()
+    print("Please complete the login manually. Press Enter in this terminal to continue after logging in.")
+    input("Press Enter to continue...")
     context.storage_state(path=AUTH_STATE_FILE)
     print("Authentication saved successfully.")
     browser.close()
@@ -41,7 +41,7 @@ def check_authentication(page):
     except (TimeoutError, json.JSONDecodeError):
         return False
 
-def fetch_and_save_posts(playwright):
+def fetch_tds_posts(playwright):
     """Fetch posts from Discourse using stored authentication."""
     print("Starting data collection using saved session.")
     browser = playwright.chromium.launch(headless=True)
@@ -67,6 +67,10 @@ def fetch_and_save_posts(playwright):
         page_num += 1
 
     print(f"Collected {len(all_topics)} topics.")
+    if all_topics:
+        print("Sample topic:", json.dumps(all_topics[0], indent=2))
+    else:
+        print("No topics found in the fetched data.")
 
     collected_posts = []
     for topic in all_topics:
@@ -132,9 +136,8 @@ def main():
                 print("Authentication confirmed.")
                 browser.close()
 
-        fetch_and_save_posts(p)
+        fetch_tds_posts(p)
 
 if __name__ == "__main__":
     main()
 
-    
