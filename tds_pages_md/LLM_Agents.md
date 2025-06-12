@@ -1,7 +1,7 @@
 ---
 title: "LLM Agents"
-original_url: "https://tds.s-anand.net/#/llm-agents?id=project-ideas"
-downloaded_at: "2025-06-11T10:45:27.498239"
+original_url: "https://tds.s-anand.net/#/llm-agents?id=what-makes-an-agent"
+downloaded_at: "2025-06-12T08:48:41.199144"
 ---
 
 [LLM Agents: Building AI Systems That Can Think and Act](#/llm-agents?id=llm-agents-building-ai-systems-that-can-think-and-act)

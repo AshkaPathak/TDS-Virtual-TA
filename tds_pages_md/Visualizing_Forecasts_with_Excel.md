@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Forecasts with Excel"
 original_url: "https://tds.s-anand.net/#/visualizing-forecasts-with-excel?id=visualizing-forecasts-with-excel"
-downloaded_at: "2025-06-11T10:44:19.788060"
+downloaded_at: "2025-06-12T08:46:49.148064"
 ---
 
 [Visualizing Forecasts with Excel](#/visualizing-forecasts-with-excel?id=visualizing-forecasts-with-excel)

@@ -1,7 +1,7 @@
 ---
 title: "Interactive Notebooks: Marimo"
 original_url: "https://tds.s-anand.net/#/marimo?id=interactive-notebooks-marimo"
-downloaded_at: "2025-06-11T10:44:26.129598"
+downloaded_at: "2025-06-12T08:49:10.590989"
 ---
 
 [Interactive Notebooks: Marimo](#/marimo?id=interactive-notebooks-marimo)

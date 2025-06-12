@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis with DuckDB"
 original_url: "https://tds.s-anand.net/#/data-analysis-with-duckdb?id=data-analysis-with-duckdb"
-downloaded_at: "2025-06-11T10:40:39.147713"
+downloaded_at: "2025-06-12T08:48:32.795103"
 ---
 
 [Data Analysis with DuckDB](#/data-analysis-with-duckdb?id=data-analysis-with-duckdb)

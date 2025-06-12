@@ -1,7 +1,7 @@
 ---
 title: "Database: SQLite"
 original_url: "https://tds.s-anand.net/#/sqlite?id=database-sqlite"
-downloaded_at: "2025-06-11T10:45:32.712673"
+downloaded_at: "2025-06-12T08:46:51.380652"
 ---
 
 [Database: SQLite](#/sqlite?id=database-sqlite)

@@ -1,7 +1,7 @@
 ---
 title: "RAG with the CLI)"
-original_url: "https://tds.s-anand.net/#/rag-cli?id=_3-generate-embeddings"
-downloaded_at: "2025-06-11T10:44:09.001328"
+original_url: "https://tds.s-anand.net/#/rag-cli?id=retrieval-augmented-generation-rag-with-the-cli"
+downloaded_at: "2025-06-12T08:48:44.355432"
 ---
 
 [Retrieval Augmented Generation (RAG) with the CLI](#/rag-cli?id=retrieval-augmented-generation-rag-with-the-cli)

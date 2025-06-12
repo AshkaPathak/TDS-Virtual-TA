@@ -1,7 +1,7 @@
 ---
 title: "TDS TA Instructions"
 original_url: "https://tds.s-anand.net/#/tds-ta-instructions?id=tds-ta-instructions"
-downloaded_at: "2025-06-11T10:43:46.250353"
+downloaded_at: "2025-06-12T08:46:31.356309"
 ---
 
 [TDS TA Instructions](#/tds-ta-instructions?id=tds-ta-instructions)

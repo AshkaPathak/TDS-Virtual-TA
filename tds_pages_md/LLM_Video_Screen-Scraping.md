@@ -1,7 +1,7 @@
 ---
 title: "LLM Video Screen-Scraping"
-original_url: "https://tds.s-anand.net/#/llm-video-screen-scraping?id=best-practices"
-downloaded_at: "2025-06-11T10:45:31.664263"
+original_url: "https://tds.s-anand.net/#/llm-video-screen-scraping?id=llm-video-screen-scraping"
+downloaded_at: "2025-06-12T08:47:45.388790"
 ---
 
 [LLM Video Screen-Scraping](#/llm-video-screen-scraping?id=llm-video-screen-scraping)

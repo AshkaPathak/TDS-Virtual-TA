@@ -1,29 +1,94 @@
 ---
 title: "Tools in Data Science"
-original_url: "https://tds.s-anand.net/#/../scraping-imdb-with-javascript?id=scraping-imdb-with-javascript"
-downloaded_at: "2025-06-11T10:51:23.013320"
+original_url: "https://tds.s-anand.net/#/../llm-text-extraction?id=llm-text-extraction"
+downloaded_at: "2025-06-12T08:54:51.303096"
 ---
 
-[Scraping IMDb with JavaScript](#/../scraping-imdb-with-javascript?id=scraping-imdb-with-javascript)
-----------------------------------------------------------------------------------------------------
+[LLM Text Extraction](#/../llm-text-extraction?id=llm-text-extraction)
+----------------------------------------------------------------------
 
-[![Scraping the IMDb with Browser JavaScript](https://i.ytimg.com/vi_webp/YVIKZqZIcCo/sddefault.webp)](https://youtu.be/YVIKZqZIcCo)
+[JSON](#/json) is one of the most widely used formats in the world for applications to exchange data.
 
-You’ll learn how to scrape the [IMDb Top 250 movies](https://www.imdb.com/chart/top) directly in the browser using JavaScript on the Chrome DevTools, covering:
+[![LLM Extraction](https://i.ytimg.com/vi_webp/72514uGffPE/sddefault.webp)](https://youtu.be/72514uGffPE)
 
-* **Access Developer Tools**: Use F12 or right-click > Inspect to open developer tools in Chrome or Edge.
-* **Inspect Elements**: Identify and inspect HTML elements using the Elements tab.
-* **Query Selectors**: Use `document.querySelectorAll` and `document.querySelector` to find elements by CSS class.
-* **Extract Text Content**: Retrieve text content from elements using JavaScript.
-* **Functional Programming**: Apply [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-  and [arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-  for concise data processing.
-* **Data Structuring**: Collect and format data into an array of arrays.
-* **Copying Data**: Use the copy function to transfer data to the clipboard.
-* **Convert to Spreadsheet**: Use online tools to convert JSON data to CSV or Excel format.
-* **Text Manipulation**: Perform text splitting and cleaning in Excel for final data formatting.
+This video explains how to use LLMs to extract structure from unstructured data, covering:
 
-Here are links and references:
+* **LLM for Data Extraction**: Use OpenAI’s API to extract structured information from unstructured data like addresses.
+* **JSON Schema**: Define a JSON schema to ensure consistent and structured output from the LLM.
+* **Prompt Engineering**: Craft effective prompts to guide the LLM’s response and improve accuracy.
+* **Data Cleaning**: Use string functions and OpenAI’s API to clean and standardize data.
+* **Data Analysis**: Analyze extracted data using Pandas to gain insights.
+* **LLM Limitations**: Understand the limitations of LLMs, including potential errors and inconsistencies in output.
+* **Production Use Cases**: Explore real-world applications of LLMs for data extraction, such as customer service email analysis.
 
-* [IMDB Top 250 movies](https://www.imdb.com/chart/top/)
-* [Learn about Chrome Devtools](https://developer.chrome.com/docs/devtools/overview/)
+Here are the links used in the video:
+
+* [Jupyter Notebook](https://colab.research.google.com/drive/1Z8mG-RPTSYY4qwkoNdzRTc4StbnwOXeE)
+* [JSON Schema](https://json-schema.org/)
+* [Function calling](https://platform.openai.com/docs/guides/function-calling)
+
+Structured Outputs is a feature that ensures the model will always generate responses that adhere to your supplied
+[JSON Schema](https://json-schema.org/overview/what-is-jsonschema), so you don’t need to worry about the model omitting a required key,
+or hallucinating an invalid enum value.
+
+```
+curl https://api.openai.com/v1/chat/completions \
+-H "Authorization: Bearer $OPENAI_API_KEY" \
+-H "Content-Type: application/json" \
+-d '{
+  "model": "gpt-4o-2024-08-06",
+  "messages": [
+    { "role": "system", "content": "You are a helpful math tutor. Guide the user through the solution step by step." },
+    { "role": "user", "content": "how can I solve 8x + 7 = -23" }
+  ],
+  "response_format": {
+    "type": "json_schema",
+    "json_schema": {
+      "name": "math_response",
+      "strict": true
+      "schema": {
+        "type": "object",
+        "properties": {
+          "steps": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": { "explanation": { "type": "string" }, "output": { "type": "string" } },
+              "required": ["explanation", "output"],
+              "additionalProperties": false
+            }
+          },
+          "final_answer": { "type": "string" }
+        },
+        "required": ["steps", "final_answer"],
+        "additionalProperties": false
+      }
+    }
+  }
+}'Copy to clipboardErrorCopied
+```
+
+Here’s what the `response_format` tells OpenAI. The items marked ⚠️ are OpenAI specific requirements for the JSON schema.
+
+* `"type": "json_schema"`: We want you to generate a JSON response that follows this schema.
+* `"json_schema":`: We’re going to give you a schema.
+  + `"name": "math_response"`: The schema is called `math_response`. (We can call it anything.)
+  + `"strict": true`: Follow the schema exactly.
+  + `"schema":`: Now, here’s the actual JSON schema.
+    - `"type": "object"`: Return an object. ⚠️ The root object **must** be an object.
+    - `"properties":`: The object has these properties:
+      * `"steps":`: There’s a `steps` property.
+        + `"type": "array"`: It’s an array.
+        + `"items":`: Each item in the array…
+          - `"type": "object"`: … is an object.
+          - `"properties":`: The object has these properties:
+            * `"explanation":`: There’s an `explanation` property.
+              + `"type": "string"`: … which is a string.
+            * `"output":`: There’s an `output` property.
+              + `"type": "string"`: … which is a string, too.
+          - `"required": ["explanation", "output"]`: ⚠️ You **must** add `"required": [...]` and include **all** fields int he object.
+          - `"additionalProperties": false`: ⚠️ OpenAI requires every object to have `"additionalProperties": false`.
+      * `"final_answer":`: There’s a `final_answer` property.
+        + `"type": "string"`: … which is a string.
+    - `"required": ["steps", "final_answer"]`: ⚠️ You **must** add `"required": [...]` and include **all** fields in the object.
+    - `"additionalProperties": false`: ⚠️ OpenAI requires every object to have `"additionalProperties": false`.

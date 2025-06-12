@@ -1,7 +1,7 @@
 ---
 title: "Transforming Images"
-original_url: "https://tds.s-anand.net/#/transforming-images?id=transforming-images"
-downloaded_at: "2025-06-11T10:44:13.377939"
+original_url: "https://tds.s-anand.net/#/transforming-images?id=filters-and-effects"
+downloaded_at: "2025-06-12T08:48:50.775308"
 ---
 
 [Transforming Images](#/transforming-images?id=transforming-images)

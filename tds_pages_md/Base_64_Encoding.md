@@ -1,7 +1,7 @@
 ---
 title: "Base 64 Encoding"
 original_url: "https://tds.s-anand.net/#/base64-encoding?id=base-64-encoding"
-downloaded_at: "2025-06-11T10:42:47.532482"
+downloaded_at: "2025-06-12T08:48:51.816279"
 ---
 
 [Base 64 Encoding](#/base64-encoding?id=base-64-encoding)

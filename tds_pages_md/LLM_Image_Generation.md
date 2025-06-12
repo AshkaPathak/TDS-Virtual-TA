@@ -1,7 +1,7 @@
 ---
 title: "LLM Image Generation"
-original_url: "https://tds.s-anand.net/#/llm-image-generation?id=gemini-flash-experimental-image-generation-and-editing-apis"
-downloaded_at: "2025-06-11T10:45:59.837419"
+original_url: "https://tds.s-anand.net/#/llm-image-generation?id=editing-options-1"
+downloaded_at: "2025-06-12T08:48:20.018328"
 ---
 
 [Gemini Flash Experimental Image Generation and Editing APIs](#/llm-image-generation?id=gemini-flash-experimental-image-generation-and-editing-apis)

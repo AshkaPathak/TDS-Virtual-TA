@@ -1,7 +1,7 @@
 ---
 title: "Crawling with the CLI"
-original_url: "https://tds.s-anand.net/#/crawling-cli?id=httrack"
-downloaded_at: "2025-06-11T10:45:38.946809"
+original_url: "https://tds.s-anand.net/#/crawling-cli?id=robotstxt"
+downloaded_at: "2025-06-12T08:49:33.485971"
 ---
 
 [Crawling with the CLI](#/crawling-cli?id=crawling-with-the-cli)

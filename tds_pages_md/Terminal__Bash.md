@@ -1,7 +1,7 @@
 ---
 title: "Terminal: Bash"
 original_url: "https://tds.s-anand.net/#/bash?id=terminal-bash"
-downloaded_at: "2025-06-11T10:40:52.879078"
+downloaded_at: "2025-06-12T08:45:56.157282"
 ---
 
 [Terminal: Bash](#/bash?id=terminal-bash)
