@@ -89,5 +89,7 @@ Handling dynamic content was challenging, especially when facing JSON decoding i
 ## Related Links
 
 [TDS 2025-01 Website](https://tds.s-anand.net/#/2025-01/)
+
 [TDS Discourse Forum](https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34)
+
 [My GitHub Profile](https://github.com/AshkaPathak)
