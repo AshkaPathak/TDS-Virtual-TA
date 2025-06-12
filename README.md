@@ -1,76 +1,80 @@
 # TDS Virtual TA Project
 
-Hi! I’m Ashka Pathak, and this is my Tools in Data Science (TDS) Virtual Teaching Assistant project, created as part of the IIT Madras Online Degree program. It’s designed to scrape course content and download Discourse posts for the TDS course—and then use that data to answer student questions via a simple API.
+Hi! I’m Ashka Pathak, and this is my **Virtual Teaching Assistant project** for the *Tools in Data Science (TDS)* course, built as part of the **IIT Madras Online BSc Data Science** program. This assistant is designed to:
 
-This project reflects my own learning journey in web scraping, API development, and automation. It’s been a challenging but rewarding experience, and I’ve learned a lot along the way!
+- Scrape and store TDS course content
+- Download Discourse forum posts with authentication
+- Respond to student queries via a lightweight API
+
+This project reflects my hands-on learning in web scraping, API development, and automation. It was both challenging and rewarding—and it greatly deepened my understanding of backend systems and data structuring.
 
 ## Overview
 
 This repository includes:
 
-1. A website scraper that collects TDS course pages in Markdown format.
-2. A Discourse post downloader that collects posts from the official Discourse forum (with proper authentication).
-3. A FastAPI backend that takes student questions and responds using the scraped data.
+1. A **website scraper** that collects TDS course pages in Markdown format
+2. A **Discourse post downloader** with session-based authentication
+3. A **FastAPI server** that processes student queries and generates responses
 
 ## Project Structure
 ```bash
-.
-├── discourse_posts.json          # JSON file with Discourse posts data
-├── discourse_json/               # Directory with individual topic JSON files
-├── tds_pages_md/                 # Markdown files for each TDS course page
-├── tds_discourse_downloader.py   # Script to download Discourse posts
-├── website_downloader_full.py    # Script to download website pages
-├── api/                          # API server code
-│   └── main.py                   # FastAPI app
-├── requirements.txt              # Required Python packages
-└── README.md                     # This file
+..
+├── discourse_posts.json            # Consolidated Discourse data
+├── discourse_json/                 # Individual topic-wise Discourse JSONs
+├── tds_pages_md/                   # Markdown pages for course content
+├── tds_discourse_downloader.py     # Script to download Discourse posts
+├── website_downloader_full.py      # Script to download TDS website pages
+├── api/
+│ └── main.py                       # FastAPI server app
+├── requirements.txt                # Python dependencies
+└── README.md                       # Project documentation
 ```
 
 ## Features
 
-1. Scrapes TDS course content automatically
-2. Downloads all Discourse posts within a date range using cookies
-3. Exposes a FastAPI endpoint to handle student queries
-4. Easy to run locally on any system
+1. Automatically scrapes **TDS course content** from the official website
+2. Downloads all **Discourse forum posts** from Jan 1 to Apr 14, 2025 using cookies
+3. Implements a **FastAPI backend** for query handling
+4. Customizable and runs locally on any machine
 
 ## Installation
-
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AshkaPathak/TDS-Project1-Data.git
-   cd TDS-Project1-Data
+   git clone https://github.com/AshkaPathak/TDS-Virtual-TA.git
+   cd TDS-Virtual-TA
     ```
-
-2. **Set up the virtual environment**
+   
+2. **Set up a virtual environment**
    ```bash
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
-    ```
-
+   ```
+   
 ## Usage
 
 ### Download website content
 ```bash
 python website_downloader_full.py
 ```
-stores all the current content for TDS Jan 2025 till 15 Apr 2025.
+Stores TDS Jan 2025 content up to 15 Apr 2025.
 
 ### Download Discourse posts
 ```bash
 python tds_discourse_downloader.py
 ``` 
-is used to download all the discourse posts and its details raning from the date 1 Jan 2025  to 14 Apr 2025.
+Downloads all posts between Jan 1 and Apr 14, 2025 using authentication cookies.
 
-### Run the API
+### Run the FastAPI server
 ```bash
 uvicorn api.main:app --reload
 ```
+
 ## Data Structure
 
-**discourse_posts.json**: Consolidated JSON of all posts.
-**discourse_json/**: Individual JSON files for each topic.
-**tds_pages_md/**: Markdown files containing course pages.
+- discourse_posts.json – Full Discourse post dump
+- discourse_json/ – Individual JSON files per topic
+- tds_pages_md/ – Markdown-formatted course pages
 
 ## License
 
@@ -78,7 +82,9 @@ This project is licensed under the MIT License.
 
 ## Notes & Reflections
 
-I manually created the cookie string required for authenticated Discourse scraping by inspecting the website. This part was tricky since I was using the inspect section further contains a lot more sections such as elements, sources, applications. This allowed me to explore a lot about session management and HTTP requests. Furthermore, I encountered several challenges with handling dynamic content (like JSON decoding errors) and then learned about Playwright which make session-based scraping much easier. I deliberately customized and tested all scripts instead of simply copying, to ensure that I understand each step in the scraping process and API development.
+To download authenticated Discourse posts, I manually extracted cookies from the browser using DevTools. This required me to explore various DevTools tabs (Elements, Application, etc.), helping me understand session management, HTTP headers, and browser storage.
+
+Handling dynamic content was challenging, especially when facing JSON decoding issues. I later explored tools like Playwright for session-based scraping. Rather than copying code blindly, I tested and customized each component to ensure I fully understood how web scraping, data formatting, and API routing work together.
 
 ## Related Links
 
