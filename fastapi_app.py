@@ -1,71 +1,44 @@
-import os
-import json
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
-from dotenv import load_dotenv
-
-from langchain_openai import OpenAIEmbeddings
-from langchain.chat_models import ChatOpenAI
 from langchain_community.vectorstores import FAISS
-from langchain.chains import RetrievalQA
 
-# Load environment variables from .env file
-load_dotenv()
-
-# Initialize FastAPI app
 app = FastAPI()
 
-# Set up CORS (optional, useful if connecting to frontend)
-from fastapi.middleware.cors import CORSMiddleware
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_methods=["*"],
-    allow_headers=["*"],
+# ✅ MockEmbedding wrapped to act as callable
+class MockEmbeddingWrapper:
+    def embed_documents(self, texts):
+        return [[0.1] * 1536 for _ in texts]
+
+    def embed_query(self, text):
+        return [0.1] * 1536
+
+    def __call__(self, text):  # This line makes it work like a function
+        return self.embed_query(text)
+
+# ✅ Instantiate correctly
+embedding = MockEmbeddingWrapper()
+
+# ✅ Load FAISS index safely
+db = FAISS.load_local(
+    "TDS_Project1_Data/faiss_index",
+    embedding,
+    allow_dangerous_deserialization=True
 )
 
-# Initialize embedding model
-embedding = OpenAIEmbeddings(
-    model="text-embedding-3-small",
-    openai_api_key=os.getenv("OPENAI_API_KEY"),
-    openai_api_base=os.getenv("OPENAI_API_BASE")
-)
-
-# Load FAISS vector store
-db = FAISS.load_local("TDS_Project1_Data/faiss_index", embedding, allow_dangerous_deserialization=True)
-
-# Set up LLM (gpt-3.5-turbo or any OpenAI-compatible model)
-llm = ChatOpenAI(
-    model="gpt-3.5-turbo",
-    openai_api_key=os.getenv("OPENAI_API_KEY"),
-    openai_api_base=os.getenv("OPENAI_API_BASE")
-)
-
-# Set up RetrievalQA chain
-qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=db.as_retriever())
-
-# Define input format
+# ✅ Request schema
 class QueryInput(BaseModel):
     question: str
-    image: Optional[str] = None  # Placeholder for future image input
+    image: Optional[str] = None
 
-# API endpoint
+# ✅ API route
 @app.post("/api/")
 async def get_response(data: QueryInput):
-    # Get LLM answer
-    answer = qa_chain.run(data.question)
-
-    # Get top 3 similar chunks for context/links
     docs = db.similarity_search(data.question, k=3)
+    context = "\n".join([doc.page_content for doc in docs])
     links = [{"url": doc.metadata.get("source", ""), "text": doc.metadata.get("source", "")} for doc in docs]
 
     return {
-        "answer": answer,
+        "answer": context,
         "links": links
     }
-
-# Local dev server
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="localhost", port=8000)
