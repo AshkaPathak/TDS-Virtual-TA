@@ -26,9 +26,6 @@ db = FAISS.load_local(
     allow_dangerous_deserialization=True
 )
 
-
-
-
 # ✅ Request schema
 class QueryInput(BaseModel):
     question: str
