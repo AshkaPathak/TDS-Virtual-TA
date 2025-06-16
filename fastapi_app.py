@@ -1,23 +1,36 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
+import os
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-import requests
+from langchain_core.prompts import PromptTemplate
+from langchain_community.chat_models import ChatOllama  # for local LLaMA
 
+# Initialize FastAPI
 app = FastAPI()
 
-# Load FAISS index
+# Root route for health check / deployment validation
+@app.get("/")
+async def root():
+    return {"message": "✅ TDS Virtual TA is running. Visit /docs for API usage."}
+
+# Load embeddings & FAISS index
 embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
 db = FAISS.load_local("faiss_index", embedding, allow_dangerous_deserialization=True)
 
-# Input schema
+# LLM setup (LLaMA via Ollama or comment this to use mock instead)
+llm = ChatOllama(model="llama3")  # Ensure you’ve run `ollama pull llama3`
+
+# Request schema
 class QueryInput(BaseModel):
     question: str
     image: Optional[str] = None
 
+# POST endpoint for answering student questions
 @app.post("/api/")
 async def get_response(data: QueryInput):
+    # Search top 3 similar chunks
     docs = db.similarity_search(data.question, k=3)
 
     if not docs:
@@ -26,34 +39,36 @@ async def get_response(data: QueryInput):
             "links": []
         }
 
-    # Extract context and links
+    # Prepare context and links
     context = "\n\n".join([doc.page_content for doc in docs])
-    links = [{"url": doc.metadata.get("source", ""), "text": doc.metadata.get("source", "")} for doc in docs]
+    links = [
+        {"url": doc.metadata.get("source", ""), "text": doc.metadata.get("source", "")}
+        for doc in docs
+    ]
 
-    # LLM prompt
-    prompt = f"""
-You are a helpful TA for the TDS course at IITM Online.
-Answer the student's question using the context below.
+    # Prompt template
+    prompt = PromptTemplate.from_template("""
+You are a helpful Virtual TA for the TDS course.
+Use the following context to answer the student's question.
 
 Context:
 {context}
 
-Question: {data.question}
-Answer:
-"""
+Question:
+{question}
 
-    # Send to Ollama (LLaMA 3)
+Answer:
+""")
+
+    # Generate response from LLM
     try:
-        res = requests.post(
-            "http://localhost:11434/api/generate",
-            json={"model": "llama3", "prompt": prompt, "stream": False}
-        )
-        result = res.json()
-        final_answer = result.get("response", "⚠️ No answer generated.")
+        final_answer = llm.invoke(
+            prompt.format(context=context, question=data.question)
+        ).strip()
     except Exception as e:
-        final_answer = f"⚠️ Failed to generate answer: {str(e)}"
+        final_answer = f"⚠️ LLM Error: {str(e)}"
 
     return {
-        "answer": final_answer.strip(),
+        "answer": final_answer,
         "links": links
     }
