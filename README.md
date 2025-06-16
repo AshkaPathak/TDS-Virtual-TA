@@ -8,6 +8,16 @@ Hi! I’m Ashka Pathak, and this is my **Virtual Teaching Assistant project** fo
 
 This project reflects my hands-on learning in web scraping, API development, and automation. It was both challenging and rewarding—and it greatly deepened my understanding of backend systems and data structuring.
 
+[Live Demo](https://tds-virtual-ta-446g.onrender.com) — Try it out using the Swagger UI
+
+## What I Learned
+
+This project challenged me to apply:
+- **Web scraping** (static + session-based)
+- **Embedding-based search** using FAISS
+- **API design and testing** with FastAPI + Swagger
+- **Mocking embeddings** when OpenAI wasn't available
+  
 ## Overview
 
 This repository includes:
@@ -18,57 +28,64 @@ This repository includes:
 
 ## Project Structure
 ```bash
-..
-├── discourse_posts.json            # Consolidated Discourse data
-├── discourse_json/                 # Individual topic-wise Discourse JSONs
-├── tds_pages_md/                   # Markdown pages for course content
-├── tds_discourse_downloader.py     # Script to download Discourse posts
-├── website_downloader_full.py      # Script to download TDS website pages
-├── api/
-│ └── main.py                       # FastAPI server app
-├── requirements.txt                # Python dependencies
-└── README.md                       # Project documentation
+.
+├── discourse_posts.json             # Combined Discourse data
+├── discourse_json/                  # Topic-wise JSON dumps
+├── tds_pages_md/                    # Markdown pages of the course site
+├── TDS_Project1_Data/               # Code for scraping and downloading
+│   ├── discourse_scraper.py
+│   ├── website_downloader_full.py
+│   ├── tds_discourse_downloader.py
+│   └── ...
+├── fastapi_app.py                   # FastAPI server with mock embeddings
+├── embed_all_posts.py               # Generates FAISS index
+├── faiss_index/                     # Stored FAISS vectorstore (index.faiss, index.pkl)
+├── requirements.txt                 # Python dependencies
+├── Procfile                         # Render deployment entrypoint
+└── README.md
 ```
 
 ## Features
 
-1. Automatically scrapes **TDS course content** from the official website
-2. Downloads all **Discourse forum posts** from Jan 1 to Apr 14, 2025 using cookies
-3. Implements a **FastAPI backend** for query handling
-4. Customizable and runs locally on any machine
+1. Automatically scrapes **TDS course content** from the official website into markdown
+2. Downloads all **Discourse forum posts** from Jan 1 to Apr 14, 2025 using cookies authentication
+3. Implements a **FastAPI backend** for query handling and answers the questions using **FAISS vector search** over scraped content
+4. Deploys with **Render** for public access
 
 ## Installation
-1. **Clone the repository**
+1. **Clone and set up**
    ```bash
    git clone https://github.com/AshkaPathak/TDS-Virtual-TA.git
    cd TDS-Virtual-TA
-    ```
-   
-2. **Set up a virtual environment**
-   ```bash
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
+    ```
+2. **Scrape the course content**
+   ```bash
+   python TDS_Project1_Data/website_downloader_full.py
    ```
    
-## Usage
+3. **Download discourse posts**
+   ```bash
+   python TDS_Project1_Data/website_downloader_full.py
+   ```
+   **!!**Requires auth.json with cookie header string
 
-### Download website content
-```bash
-python website_downloader_full.py
-```
-Stores TDS Jan 2025 content up to 15 Apr 2025.
-
-### Download Discourse posts
-```bash
-python tds_discourse_downloader.py
-``` 
-Downloads all posts between Jan 1 and Apr 14, 2025 using authentication cookies.
-
-### Run the FastAPI server
-```bash
-uvicorn api.main:app --reload
-```
+4. **Generate embeddings (FAISS)**
+   ```bash
+   python embed_all_posts.py
+   ```
+   
+5. **Start API server**
+   ```bash
+   uvicorn fastapi_app:app --reload
+   ```
+   Go to: http://localhost:8000/docs
+   
+## Deployed Version
+You can access the hosted version here:
+https://tds-virtual-ta-446g.onrender.com
 
 ## Data Structure
 
@@ -82,9 +99,11 @@ This project is licensed under the MIT License.
 
 ## Notes & Reflections
 
-To download authenticated Discourse posts, I manually extracted cookies from the browser using DevTools. This required me to explore various DevTools tabs (Elements, Application, etc.), helping me understand session management, HTTP headers, and browser storage.
-
 Handling dynamic content was challenging, especially when facing JSON decoding issues. I later explored tools like Playwright for session-based scraping. Rather than copying code blindly, I tested and customized each component to ensure I fully understood how web scraping, data formatting, and API routing work together.
+
+To download authenticated Discourse posts, I manually extracted cookies from the browser using DevTools. This required me to explore various DevTools tabs (Elements, Application, etc.), helping me understand session management, HTTP headers, and browser storage. Whereas for deployment, I used mock embeddings to avoid OpenAI dependencies which led me to implementing a MockEmbeddingWrapper that mimicked embed_documents() and embed_query()—this involved making the class callable and compatible with FAISS’s expectations.
+
+I faced certain challenges while debugging FAISS paths such as the file not found errors. Since FAISS doesn’t provide user-friendly error messages, so debugging "FileIOReader failed" involved a lot of trial and error—checking whether files were committed properly, inside the correct subfolders, and accessible via the deployment path. I also leanred how FAISS uses binary serialization (such as index.faiss for vectors and index.pkl for metadata). Knowing the difference between serialized index data and associated metadata helped me ensure both files were loaded correctly and mapped back into langchain's vector store structure.
 
 ## Related Links
 
