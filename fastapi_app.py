@@ -21,10 +21,13 @@ embedding = MockEmbeddingWrapper()
 
 # ✅ Load FAISS index safely
 db = FAISS.load_local(
-    "TDS_Project1_Data/faiss_index",
-    embedding,
+    "faiss_index", 
+    embedding, 
     allow_dangerous_deserialization=True
 )
+
+
+
 
 # ✅ Request schema
 class QueryInput(BaseModel):
