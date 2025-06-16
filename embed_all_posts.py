@@ -1,39 +1,39 @@
-import json
 import os
-from langchain.docstore.document import Document
-from langchain_community.vectorstores import FAISS
+import json
+from langchain_core.documents import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders import TextLoader
+from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
 
-# ✅ Mock embedding class (no OpenAI needed)
-class MockEmbedding:
-    def embed_documents(self, texts):
-        return [[0.1] * 1536 for _ in texts]
-    def embed_query(self, text):
-        return [0.1] * 1536
+# 📁 1. Load Markdown documents
+md_docs = []
+md_path = "tds_pages_md"
+for filename in os.listdir(md_path):
+    if filename.endswith(".md"):
+        loader = TextLoader(os.path.join(md_path, filename))
+        md_docs.extend(loader.load())
 
-# Load posts
+# 📁 2. Load Discourse posts from JSON
+json_docs = []
 with open("TDS_Project1_Data/discourse_posts.json", "r") as f:
-    posts = json.load(f)
+    data = json.load(f)
+    for post in data:
+        content = post.get("content", "")
+        source = post.get("url", "")
+        if content:
+            json_docs.append(Document(page_content=content, metadata={"source": source}))
 
-splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
-documents = []
+# ✅ 3. Combine documents
+all_docs = md_docs + json_docs
 
-for post in posts:
-    text = post.get("content", "").strip()
-    source = post.get("url", "")
-    if not text:
-        continue
-    chunks = splitter.split_text(text)
-    for chunk in chunks:
-        documents.append(Document(page_content=chunk, metadata={"source": source}))
+# 🧩 4. Split into chunks
+splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+chunks = splitter.split_documents(all_docs)
 
-print(f"📄 Loaded {len(documents)} document chunks")
+# 🤖 5. Embed and save FAISS index
+embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+db = FAISS.from_documents(chunks, embedding)
+db.save_local("faiss_index")
 
-# ✅ Use mock embeddings
-embedding = MockEmbedding()
-
-# Save FAISS index locally
-faiss_index = FAISS.from_documents(documents, embedding)
-faiss_index.save_local("TDS_Project1_Data/faiss_index")
-
-print("✅ FAISS index created using mock embeddings.")
+print(f"✅ Embedded and saved {len(chunks)} chunks from {len(all_docs)} sources.")

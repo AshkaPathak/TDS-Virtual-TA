@@ -2,43 +2,58 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional
 from langchain_community.vectorstores import FAISS
+from langchain_huggingface import HuggingFaceEmbeddings
+import requests
 
 app = FastAPI()
 
-# ✅ MockEmbedding wrapped to act as callable
-class MockEmbeddingWrapper:
-    def embed_documents(self, texts):
-        return [[0.1] * 1536 for _ in texts]
+# Load FAISS index
+embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
+db = FAISS.load_local("faiss_index", embedding, allow_dangerous_deserialization=True)
 
-    def embed_query(self, text):
-        return [0.1] * 1536
-
-    def __call__(self, text):  # This line makes it work like a function
-        return self.embed_query(text)
-
-# ✅ Instantiate correctly
-embedding = MockEmbeddingWrapper()
-
-# ✅ Load FAISS index safely
-db = FAISS.load_local(
-    "faiss_index", 
-    embedding, 
-    allow_dangerous_deserialization=True
-)
-
-# ✅ Request schema
+# Input schema
 class QueryInput(BaseModel):
     question: str
     image: Optional[str] = None
 
-# ✅ API route
 @app.post("/api/")
 async def get_response(data: QueryInput):
     docs = db.similarity_search(data.question, k=3)
-    context = "\n".join([doc.page_content for doc in docs])
+
+    if not docs:
+        return {
+            "answer": "❌ Sorry, I couldn't find a relevant answer. Try rephrasing.",
+            "links": []
+        }
+
+    # Extract context and links
+    context = "\n\n".join([doc.page_content for doc in docs])
     links = [{"url": doc.metadata.get("source", ""), "text": doc.metadata.get("source", "")} for doc in docs]
 
+    # LLM prompt
+    prompt = f"""
+You are a helpful TA for the TDS course at IITM Online.
+Answer the student's question using the context below.
+
+Context:
+{context}
+
+Question: {data.question}
+Answer:
+"""
+
+    # Send to Ollama (LLaMA 3)
+    try:
+        res = requests.post(
+            "http://localhost:11434/api/generate",
+            json={"model": "llama3", "prompt": prompt, "stream": False}
+        )
+        result = res.json()
+        final_answer = result.get("response", "⚠️ No answer generated.")
+    except Exception as e:
+        final_answer = f"⚠️ Failed to generate answer: {str(e)}"
+
     return {
-        "answer": context,
+        "answer": final_answer.strip(),
         "links": links
     }
