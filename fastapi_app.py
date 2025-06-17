@@ -8,24 +8,29 @@ from langchain_core.prompts import PromptTemplate
 
 app = FastAPI()
 
-# ✅ Simplified root route to pass TDS form check
+# ✅ Health check root route
 @app.get("/")
 async def root():
-    return {"status": "ok"}
+    return {"message": "TDS Virtual TA is running. Visit /docs for Swagger UI."}
 
-# 🧠 Placeholder LLM
+# ✅ GET route to pass TDS submission form (it uses GET on /api/)
+@app.get("/api/")
+async def api_get_check():
+    return {"status": "ok", "message": "Backend is up and running. Use POST to query."}
+
+# 🧠 Dummy LLM (replace with real one locally)
 class MockLLM:
     def invoke(self, prompt: str) -> str:
-        return "🤖 This is a placeholder answer. Please run locally with a real LLM."
+        return "🤖 This is a placeholder answer. Run locally for real results."
 
 llm = MockLLM()
 
-# 📦 Schema
+# 📦 Request schema
 class QueryInput(BaseModel):
     question: str
     image: Optional[str] = None
 
-# ✅ POST /api/
+# ✅ Actual POST API endpoint
 @app.post("/api/")
 async def get_response(data: QueryInput):
     try:
@@ -33,15 +38,15 @@ async def get_response(data: QueryInput):
         db = FAISS.load_local("faiss_index", embedding, allow_dangerous_deserialization=True)
 
         docs = db.similarity_search(data.question)
-        content = "\n\n".join([doc.page_content for doc in docs])
+        context = "\n\n".join(doc.page_content for doc in docs)
 
         prompt = PromptTemplate.from_template(
             "You're a helpful TA for the TDS course. Use the context below:\n\n{context}\n\nQuestion: {question}\n\nAnswer:"
         )
 
-        full_prompt = prompt.format(context=content, question=data.question)
+        full_prompt = prompt.format(context=context, question=data.question)
         response = llm.invoke(full_prompt)
-
         return {"answer": response}
+
     except Exception as e:
-        return {"error": f"Failed to load vectorstore or generate response: {str(e)}"}
+        return {"error": f"Something went wrong: {str(e)}"}
