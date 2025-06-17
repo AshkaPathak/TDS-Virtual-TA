@@ -3,7 +3,7 @@ from pydantic import BaseModel
 from typing import Optional
 import os
 from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_core.prompts import PromptTemplate
 
 app = FastAPI()
