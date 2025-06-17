@@ -20,7 +20,7 @@ db = FAISS.load_local("faiss_index", embedding, allow_dangerous_deserialization=
 # Fallback LLM when LLaMA/OpenAI isn't usable
 class MockLLM:
     def invoke(self, prompt):
-        return "🤖 This is a placeholder answer. Please run locally with LLaMA or OpenAI for real responses."
+        return "This is a placeholder answer. Please run locally with LLaMA or OpenAI for real responses."
 
 llm = MockLLM()
 
