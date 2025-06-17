@@ -3,6 +3,7 @@ langchain-openai
 langchain-community
 faiss-cpu
 openai
+sentence-transformers
 python-dotenv
 fastapi
 uvicorn
