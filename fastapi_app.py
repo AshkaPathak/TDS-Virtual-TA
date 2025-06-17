@@ -16,12 +16,10 @@ async def root():
     }
 
 # ✅ GET fallback for /api/ to pass TDS form check
-@app.get("/api/")
-async def get_api_info():
-    return {
-        "status": "ok",
-        "message": "Backend is up and running. Use POST with your question to get a response."
-    }
+@app.get("/")
+async def root():
+    return {"status": "ok"}
+
 
 # 🧠 Placeholder LLM to simulate answer generation
 class MockLLM:
