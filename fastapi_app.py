@@ -1,8 +1,18 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional, List
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+# ✅ CORS middleware to handle OPTIONS preflight requests
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # You can restrict to specific origin if needed
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Input schema
 class QueryInput(BaseModel):
@@ -18,7 +28,7 @@ class AnswerResponse(BaseModel):
     answer: str
     links: List[Link]
 
-# Knowledge base
+# Hardcoded knowledge base
 qa_pairs = {
     "What is TDS?": {
         "answer": "TDS stands for Tools in Data Science. It teaches practical tools used in real-world data workflows.",
@@ -52,9 +62,9 @@ qa_pairs = {
 # Health check route
 @app.get("/")
 async def root_get():
-    return {"status": "ok"}
+    return {"status": "ok", "served_from": "cleaned fastapi_app.py"}
 
-# POST endpoint that matches Render and TDS requirement
+# POST endpoint required by Render and TDS evaluation
 @app.post("/", response_model=AnswerResponse)
 async def answer_question(data: QueryInput) -> AnswerResponse:
     question = data.question.strip()
