@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from typing import Optional, List, Dict
+from typing import Optional, List
 
 app = FastAPI()
 
@@ -18,7 +18,7 @@ class AnswerResponse(BaseModel):
     answer: str
     links: List[Link]
 
-# Knowledge base (minimal, you can expand this)
+# Knowledge base
 qa_pairs = {
     "What is TDS?": {
         "answer": "TDS stands for Tools in Data Science. It teaches practical tools used in real-world data workflows.",
@@ -49,17 +49,19 @@ qa_pairs = {
     }
 }
 
+# Health check route
 @app.get("/")
 async def root_get():
     return {"status": "ok"}
 
+# POST endpoint that matches Render and TDS requirement
 @app.post("/", response_model=AnswerResponse)
-async def answer_question(data: QueryInput) -> Dict:
+async def answer_question(data: QueryInput) -> AnswerResponse:
     question = data.question.strip()
     if question in qa_pairs:
-        return qa_pairs[question]
+        return AnswerResponse(**qa_pairs[question])
     else:
-        return {
-            "answer": "Sorry, I do not know the answer to that question.",
-            "links": []
-        }
+        return AnswerResponse(
+            answer="Sorry, I do not know the answer to that question.",
+            links=[]
+        )
