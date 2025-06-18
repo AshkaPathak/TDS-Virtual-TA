@@ -1,0 +1,22 @@
+[
+  {
+    "content": "The TDS end-semester exam is scheduled for September 2025.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/question-8"
+  },
+  {
+    "content": "You should use gpt-4o-mini instead of gpt-3.5-turbo for compatibility with ai-proxy.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/question-12"
+  },
+  {
+    "content": "GA2 is due by June 25, 2025. No late submissions are allowed.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/question-25"
+  },
+  {
+    "content": "Project 1 deadline is July 10, 2025. Submissions after this date will not be considered.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/question-31"
+  },
+  {
+    "content": "To install the required packages, run `pip install -r requirements.txt` in your terminal.",
+    "url": "https://discourse.onlinedegree.iitm.ac.in/question-35"
+  }
+]
