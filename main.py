@@ -1,8 +1,18 @@
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from typing import Optional, List
 
 app = FastAPI()
+
+# Enable CORS
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # allow all origins for simplicity
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # Request schema
 class QueryInput(BaseModel):
@@ -51,7 +61,7 @@ qa_pairs = {
 
 @app.get("/")
 async def root():
-    return {"status": "ok", "served_from": "replit"}
+    return {"status": "ok", "served_from": "vercel or replit"}
 
 @app.post("/", response_model=AnswerResponse)
 async def answer(data: QueryInput) -> AnswerResponse:
