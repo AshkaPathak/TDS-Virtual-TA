@@ -4,17 +4,14 @@ from typing import List, Optional
 
 app = FastAPI()
 
-# ✅ Health check route
 @app.get("/")
 async def root():
     return {"status": "ok"}
 
-# ✅ API status route
 @app.get("/api/")
 async def api_info():
     return {"message": "TDS Virtual TA is running. Use POST to ask questions."}
 
-# ✅ Request and Response Schemas
 class QueryInput(BaseModel):
     question: str
     image: Optional[str] = None
@@ -27,7 +24,6 @@ class AnswerResponse(BaseModel):
     answer: str
     links: List[Link]
 
-# ✅ Final Mock POST Response
 @app.post("/api/", response_model=AnswerResponse)
 async def get_response(data: QueryInput):
     return {
