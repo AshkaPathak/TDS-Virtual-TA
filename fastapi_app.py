@@ -4,21 +4,17 @@ from typing import Optional, List
 
 app = FastAPI()
 
-# ✅ Health check for Render and submission
+# Health check
 @app.get("/")
-async def root():
+async def health_check():
     return {"status": "ok"}
 
-@app.get("/api/")
-async def info():
-    return {"message": "TDS Virtual TA is running. Use POST to ask questions."}
-
-# 📦 Input schema
+# Input schema
 class QueryInput(BaseModel):
     question: str
     image: Optional[str] = None
 
-# 📦 Output schema
+# Output schema
 class Link(BaseModel):
     url: str
     text: str
@@ -27,9 +23,9 @@ class AnswerResponse(BaseModel):
     answer: str
     links: List[Link]
 
-# ✅ Main POST endpoint
-@app.post("/api/")
-async def get_response(data: QueryInput):
+# ✅ POST route should now be root "/"
+@app.post("/")
+async def respond(data: QueryInput) -> AnswerResponse:
     return {
         "answer": "TDS stands for Tools in Data Science. It teaches practical tools used in real-world data workflows.",
         "links": [
