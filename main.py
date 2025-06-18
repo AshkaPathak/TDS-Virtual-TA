@@ -1,25 +1,15 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional, List
-from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
 
-# ✅ CORS middleware to handle OPTIONS preflight requests
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # You can restrict to specific origin if needed
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# Input schema
+# Request schema
 class QueryInput(BaseModel):
     question: str
     image: Optional[str] = None
 
-# Output schema
+# Response schema
 class Link(BaseModel):
     url: str
     text: str
@@ -28,14 +18,14 @@ class AnswerResponse(BaseModel):
     answer: str
     links: List[Link]
 
-# Hardcoded knowledge base
+# Hardcoded QA pairs
 qa_pairs = {
     "What is TDS?": {
         "answer": "TDS stands for Tools in Data Science. It teaches practical tools used in real-world data workflows.",
         "links": [
             {
                 "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/",
-                "text": "Explanation provided by the course team on Discourse."
+                "text": "Explanation by course team"
             }
         ]
     },
@@ -44,7 +34,7 @@ qa_pairs = {
         "links": [
             {
                 "url": "https://onlinedegree.iitm.ac.in/",
-                "text": "Check deadlines on the portal."
+                "text": "Check portal"
             }
         ]
     },
@@ -59,19 +49,14 @@ qa_pairs = {
     }
 }
 
-# Health check route
 @app.get("/")
-async def root_get():
-    return {"status": "ok", "served_from": "cleaned fastapi_app.py"}
+async def root():
+    return {"status": "ok", "served_from": "replit"}
 
-# POST endpoint required by Render and TDS evaluation
 @app.post("/", response_model=AnswerResponse)
-async def answer_question(data: QueryInput) -> AnswerResponse:
+async def answer(data: QueryInput) -> AnswerResponse:
     question = data.question.strip()
     if question in qa_pairs:
         return AnswerResponse(**qa_pairs[question])
     else:
-        return AnswerResponse(
-            answer="Sorry, I do not know the answer to that question.",
-            links=[]
-        )
+        return AnswerResponse(answer="Sorry, I do not know the answer to that question.", links=[])

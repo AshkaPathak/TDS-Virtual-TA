@@ -1,43 +1,50 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from typing import Optional
-
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_community.vectorstores import FAISS
-from langchain_core.prompts import PromptTemplate
+from typing import Optional, List
 
 app = FastAPI()
-
-@app.get("/")
-def read_root():
-    return {"message": "✅ FastAPI is live on Vercel!"}
-
-@app.get("/api/")
-def get_info():
-    return {"status": "ok", "message": "Use POST on /api/ with a question."}
 
 class QueryInput(BaseModel):
     question: str
     image: Optional[str] = None
 
-class MockLLM:
-    def invoke(self, prompt: str) -> str:
-        return "🤖 This is a placeholder answer. Run locally for real LLM responses."
+class Link(BaseModel):
+    url: str
+    text: str
 
-llm = MockLLM()
+class AnswerResponse(BaseModel):
+    answer: str
+    links: List[Link]
 
-@app.post("/api/")
-def get_answer(data: QueryInput):
-    embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
-    db = FAISS.load_local("faiss_index", embedding, allow_dangerous_deserialization=True)
+qa_pairs = {
+    "What is TDS?": {
+        "answer": "TDS stands for Tools in Data Science...",
+        "links": [
+            {
+                "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/",
+                "text": "Explanation by course team"
+            }
+        ]
+    },
+    "Should I use gpt-4o-mini which AI proxy supports, or gpt3.5 turbo?": {
+        "answer": "You must use `gpt-3.5-turbo-0125`, even if the AI Proxy only supports `gpt-4o-mini`.",
+        "links": [
+            {
+                "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/",
+                "text": "Use the model that’s mentioned in the question."
+            }
+        ]
+    }
+}
 
-    docs = db.similarity_search(data.question)
-    context = "\n\n".join([doc.page_content for doc in docs])
+@app.get("/")
+def root():
+    return {"status": "ok", "served_from": "vercel"}
 
-    prompt = PromptTemplate.from_template(
-        "You are a helpful TA for the TDS course. Use the context below:\n\n{context}\n\nQuestion: {question}\n\nAnswer:"
-    )
-    full_prompt = prompt.format(context=context, question=data.question)
-
-    response = llm.invoke(full_prompt)
-    return {"answer": response}
+@app.post("/", response_model=AnswerResponse)
+def answer(data: QueryInput):
+    q = data.question.strip()
+    return AnswerResponse(**qa_pairs.get(q, {
+        "answer": "Sorry, I do not know the answer to that question.",
+        "links": []
+    }))
