@@ -4,18 +4,30 @@ from typing import Optional, List
 
 app = FastAPI()
 
+# ✅ Health check for Render and submission
 @app.get("/")
 async def root():
     return {"status": "ok"}
 
 @app.get("/api/")
-async def get_api_info():
-    return {"message": "Use POST to interact."}
+async def info():
+    return {"message": "TDS Virtual TA is running. Use POST to ask questions."}
 
+# 📦 Input schema
 class QueryInput(BaseModel):
     question: str
     image: Optional[str] = None
 
+# 📦 Output schema
+class Link(BaseModel):
+    url: str
+    text: str
+
+class AnswerResponse(BaseModel):
+    answer: str
+    links: List[Link]
+
+# ✅ Main POST endpoint
 @app.post("/api/")
 async def get_response(data: QueryInput):
     return {
